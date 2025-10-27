@@ -1,0 +1,809 @@
+/* Insta Ads Layout - Fixed Version */
+/* Safe inline script suppression added */
+
+(function() {
+  console.log('✅ Insta Ads layout active — ?ads=1 detected (Fixed version)');
+  try {
+    var container = document.createElement('div');
+    container.innerHTML = `<!-- Script Block Disabled for Safety:  -->
+
+
+
+
+
+
+
+
+
+	
+        <div id="floatads" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;:bottom:0;z-index:9999;opacity:0;top:1%;top:1% !important;">
+            <div style="display:block;max-width:728px;height:auto;overflow:hidden;margin:auto;max-height:340px;">
+                <center>
+                    <!-- Adsense Ad Code and Adx -->
+
+				
+				
+				
+				
+				</center>    
+            </div>
+        </div>
+        <div id="floatads" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;:bottom:0;z-index:9999;opacity:0;top:290px !important;margin-top:5px!important;">
+            <div style="display:block;max-width:728px;height:auto;overflow:hidden;margin:auto;max-height:340px;">
+                <center>
+                     <!-- Adsense Ad Code and Adx -->
+
+					
+					<!-- Script Block Disabled for Safety:  async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6352520331643827"
+     crossorigin="anonymous" -->
+<!-- usdt_crypto_trading_2 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6352520331643827"
+     data-ad-slot="8119823663"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<!-- Script Block Disabled for Safety:  -->
+					
+					
+					
+  </center>    
+            </div>
+        </div>
+        <div id="floatads" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;:bottom:0;z-index:9999;opacity:0;top:580px !important;">
+            <div style="display:block;max-width:728px;height:auto;overflow:hidden;margin:auto;max-height:340px;">
+                <center>
+                    <!-- Adsense Ad Code and Adx -->
+				
+				
+				
+				</center>    
+            </div>
+        </div>
+    </div>
+
+	
+	
+	
+	
+
+
+
+
+
+<html lang="en-US"><head>
+       
+	
+	
+	
+	
+	
+	
+	
+	
+	<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noindex">
+        <meta name="googlebot" content="noindex">
+        <meta name="language" content="en">
+        <title>Erp Manufacturing Transforming Industry Efficiency</title>
+        <!-- Script Block Disabled for Safety:  src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202410030101/show_ads_impl_fy2021.js" --><!-- Script Block Disabled for Safety:  src="https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202410030101/slotcar_library_fy2021.js" -->    <!--resource-->
+        <link href="//www.youtube.com" rel="preconnect dns-prefetch">
+        <link href="//pagead2.googlesyndication.com" rel="preconnect dns-prefetch">
+        <link href="//googleads.g.doubleclick.net" rel="preconnect dns-prefetch">
+        <link href="//ad.doubleclick.net" rel="preconnect dns-prefetch">
+        <link href="//i.ytimg.com" rel="preconnect dns-prefetch">
+        <link href="//www.gstatic.com" rel="preconnect dns-prefetch">
+        <link href="//www.google.com" rel="preconnect dns-prefetch">
+        <link href="//cse.google.com" rel="preconnect dns-prefetch">
+        <link href="//adclick.g.doubleclick.net" rel="preconnect dns-prefetch">
+        <link href="//tpc.googlesyndication.com" rel="preconnect dns-prefetch">
+        <link href="//google.com" rel="preconnect dns-prefetch">
+        <link href="//www.google.com" rel="preconnect dns-prefetch">
+        <link href="//contextual.media.net" rel="preconnect dns-prefetch">
+        <link href="//warp.media.net" rel="preconnect dns-prefetch">
+        <link href="//www.googleadservices.com" rel="preconnect dns-prefetch">
+        <link href="//gstatic.com" rel="preconnect dns-prefetch">
+        <link href="//www.google-analytics.com" rel="preconnect dns-prefetch">
+        <link href="//yt3.ggpht.com" rel="preconnect dns-prefetch">
+        <link href="//cdn.jsdelivr.net" rel="preconnect dns-prefetch">
+        <link href="//fonts.gstatic.com" rel="preconnect dns-prefetch">
+        <link href="//adservice.google.com" rel="preconnect dns-prefetch">
+        <link href="//ajax.cloudflare.com" rel="preconnect dns-prefetch">
+        <link href="//www.googletagmanager.com" rel="preconnect dns-prefetch">
+        <link href="//partner.googleadservices.com" rel="preconnect dns-prefetch">
+        <link href="//www.googletagservices.com" rel="preconnect dns-prefetch">
+        <link href="//subdomain.b-cdn.net" rel="preconnect dns-prefetch">
+        <link href="//static.doubleclick.net" rel="preconnect dns-prefetch">
+        <link rel="preload" as="font" href="/wp-content/plugins/pluginadsen/yphub/fonts/yp.eot" type="font/eot" crossorigin="anonymous">
+        <link rel="preload" as="font" href="/wp-content/plugins/pluginadsen/yphub/fonts/yp.ttf" type="font/ttf" crossorigin="anonymous">
+        <link rel="preload" as="font" href="/wp-content/plugins/pluginadsen/yphub/fonts/yp.eot" type="font/eot" crossorigin="anonymous">
+        <link rel="preload" as="font" href="/wp-content/plugins/pluginadsen/yphub/fonts/yp.woff" type="font/woff" crossorigin="anonymous">
+        <link rel="preload" as="font" href="/wp-content/plugins/pluginadsen/yphub/fonts/yp.svg" type="image/svg+xml" crossorigin="anonymous">
+        <style>
+        @font-face {
+        font-family: 'yp';
+        src: url('/wp-content/plugins/pluginadsen/yphub/fonts/yp.eot');
+        src: local('yp'),
+             url('/wp-content/plugins/pluginadsen/yphub/fonts/yp.eot?#iefix') format('embedded-opentype'),
+             url('/wp-content/plugins/pluginadsen/yphub/fonts/yp.woff2') format('woff2'),
+             url('/wp-content/plugins/pluginadsen/yphub/fonts/yp.woff') format('woff'),
+             url('/wp-content/plugins/pluginadsen/yphub/fonts/yp.ttf') format('truetype'),
+             url('/wp-content/plugins/pluginadsen/yphub/fonts/yp.svg#yp') format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+            }
+        </style>
+    <style>
+        :root {--main-text: #ffffff;--lightest-gray: #fafafa;--light-gray: #bbbbbb;--mid-light-gray: #616161;--gray: #4b4b4b;--mid-gray: #363636;--light-mid-gray: #444444;--mid-gray-border: #313131;--dark-gray: #232323;--shadow-dark-gray: #707070;--darkest-gray: #161617;--main-background: #000;--main-theme:  #ec567c;--main-theme-hover: #e33561;--error: #b02020;--main-error: #d32f2f;--main-enable: #8faf20;--main-pornhub: #FF9900;--main-theme-information: #ed6398;--intersti-blue: #00aef1;--tooltip-background: #444444;--tooltip-text: #EEEEEE;--light-theme-light-gray: #f2f2f2;--light-theme-gray-border: #d9d9d9;--light-theme-gray: #e0e0e0;--social-twitter: #1DA1F3;--icon-defaultUserAvatar1: #ffffff;--icon-defaultUserAvatar2: #ec567c;--icon-defaultUserAvatar3: #9c4057;--icon-defaultUserAvatar4: #9c4057;--bubble-text: #ec567c;}[class*=" icon-"],[class^=icon-]{font-family:yp!important;speak:never;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-defaultUserAvatar .path1:before{content:"\e99d";color:var(--icon-defaultUserAvatar1);opacity:.12}.icon-defaultUserAvatar .path2:before{content:"\e99e";margin-left:-1em;color:var(--icon-defaultUserAvatar2)}.icon-defaultUserAvatar .path3:before{content:"\e99f";margin-left:-1em;color:var(--icon-defaultUserAvatar3)}.icon-defaultUserAvatar .path4:before{content:"\e9a0";margin-left:-1em;color:var(--icon-defaultUserAvatar4)}.icon-pink-eye:before{content:"\e99b";color:var(--main-theme)}.icon-pink-thumb-up:before{content:"\e99c";color:var(--main-theme)}.icon-twitter-circle:before{content:"\e994"}.icon-info-circle:before{content:"\e990"}.icon-share-arrow-hollow:before{content:"\e965"}.icon-jump-to-next:before{content:"\e968"}.icon-circle-plus:before{content:"\e60d"}.icon-flag:before{content:"\e61c"}.icon-heart:before{content:"\e627"}.icon-magnifying-glass:before{content:"\e62b"}.icon-menu:before{content:"\e62d"}.icon-orientation-gay:before{content:"\e634"}.icon-round-plus:before{content:"\e640"}.icon-thin-x:before{content:"\e645"}a,b,body,canvas,div,footer,h1,header,html,i,img,label,li,nav,p,span,ul,var,video{margin:0;padding:0;border:0;vertical-align:baseline}footer,header,nav{display:block}body{line-height:1}ul{list-style:none}a{text-decoration:none}html{background-color:var(--main-background);color:var(--main-text);-webkit-text-size-adjust:100%}body{font-family:Arial,Helvetica,sans-serif;margin:0;width:100%}.clearfix:after,.clearfix:before{content:"";display:table}.clearfix:after{clear:both}ul{list-style:none;margin:0;padding:0}ul li{float:none}i{font-size:1.5em;color:var(--light-gray)}header{width:100%;height:86px;z-index:2}button{background-color:transparent}.is-hidden{display:none!important}a{color:var(--main-theme);outline:0}p{padding-bottom:10px;line-height:21px}.button{display:block;width:95%;margin:18px auto 0;padding:10px 0;font-size:1em;line-height:1.4;border:0;border-radius:3px;color:var(--main-text);text-align:center;text-decoration:none;box-sizing:border-box;background:0 0}.button [class*=" icon-"]{font-size:1.2em}button.button{border:0}.button.button-pink{background-color:var(--main-theme)}.button.button-midGrey{background-color:var(--mid-gray);color:var(--light-gray)}.button i{margin-right:5px}.bubble-button{background:0 0;border:1px solid var(--mid-gray);border-radius:15px;font-weight:400;line-height:30px;margin-bottom:4px;padding:6px 12px}.topHeader{display:flex;align-items:center;width:100%;position:fixed;-webkit-transition:margin-top 0s ease-in-out;-moz-transition:margin-top 0s ease-in-out;-o-transition:margin-top 0s ease-in-out;transition:margin-top 0s ease-in-out;top:0;right:0;left:0;z-index:150;background:var(--main-background)}.topHeader div.searchInput{width:80%}.topHeader .menuBtn{padding:10px 0 5px 8px;height:19px;width:19px}.topHeader .menuBtn .icon-menu{font-size:1.16em}.topHeader .logo{display:block;text-align:center;margin-left:10px}.topHeader .logo img{margin:5px 0 0;max-height:50px}.topHeader #search_toggle{display:block;margin:7px 0 7px 6px;z-index:10;border:1px solid var(--mid-gray);border-radius:20px;font-size:.9em;float:none;line-height:22px;position:relative;padding:5px 5px 5px 26px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;background:var(--dark-gray);color:var(--shadow-dark-gray)}@media (max-width:320px){.topHeader #search_toggle{padding-left:3px;font-size:.75em}}.topHeader #search_toggle i{margin:4px;display:inline-block;font-size:.85em;color:var(--main-theme);position:absolute;left:4px;top:6px}.topHeader #search_toggle i.icon-magnifying-glass{width:12px;height:12px}@media (max-width:320px){.topHeader #search_toggle i{display:none}}.topHeader .defaultUserAvatar-wrapper{width:25px;height:25px;display:block;margin:8px 10px;border-radius:50%;overflow:hidden}.topHeader .defaultUserAvatar-wrapper i{font-size:1.58em;width:25px;height:25px}.topHeader .defaultUserAvatar-wrapper i{display:flex}#paidSites{display:flex;align-items:center;position:relative;top:50px;clear:both;margin-bottom:7px;justify-content:center}#paidSites{padding:1px 0 0;font-size:.6em;margin-bottom:1px}#paidSites div{height:35px;margin:0 0 0 1px;text-align:justify;flex:1;vertical-align:top;overflow:hidden}#paidSites div span{display:block;line-height:37px;width:100%;height:100%;text-align:center;text-transform:uppercase;font-weight:700;background:var(--dark-gray);color:var(--light-gray)}#paidSites div:first-child{margin-left:-3px}#pageWrapper{position:relative;overflow-x:hidden}.footer-links-container{display:grid;grid-template-columns:7vw 1fr 7vw;grid-template-rows:auto auto;border-top:2px solid var(--main-theme);padding-top:20px;padding-bottom:20px}@media only screen and (max-width:768px),only screen and (max-width:960px){.footer-links-container{grid-template-columns:4vw 4fr 4vw}}.footer-links-container div{grid-column:1/3;display:grid;grid-template-rows:auto auto;grid-template-areas:"logo support secondary resources trustAndSaftey" "social orientation orientation orientation orientation" "rta copyRights informationPages informationPages informationPages"}.footer-links-container div .footer-blocks{margin:20px 0 10px}.footer-links-container div .footer-blocks .footer-item{font-size:.95em;font-weight:700}.footer-links-container div .footer-blocks .accordion-list{line-height:2em;margin-top:10px}.footer-links-container div .footer-blocks.block-support{grid-area:support}.footer-links-container div .footer-blocks.block-work-with-us{grid-area:secondary}.footer-links-container div .footer-blocks.block-resources{grid-area:resources}.footer-links-container div .footer-blocks.block-trustAndSaftey{grid-area:trustAndSaftey}.footer-links-container div .footer-blocks.block-social-buttons{font-size:2em;grid-area:social;display:grid;grid-template-columns:repeat(2,1.3em);grid-template-rows:auto auto}.footer-links-container div .footer-blocks.block-social-buttons .icon-twitter-circle:hover{color:var(--social-twitter)}.footer-links-container div .footer-blocks.block-orientation{grid-area:orientation}.footer-links-container div .footer-blocks.block-orientation .icon-orientation-gay{font-size:1.8em;top:5px;margin-right:10px;position:relative}.footer-links-container div .footer-blocks.block-orientation .yp-site-name{color:var(--main-theme);text-decoration:underline}.footer-links-container div .footer-blocks.block-rating-links{grid-area:rta}.footer-links-container div .footer-blocks.block-copyright{grid-area:copyRights}.footer-links-container div .footer-blocks.block-information-pages{grid-area:informationPages}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between;flex-wrap:wrap;gap:0 15px}.footer-links-container div .footer-blocks.block-information-pages ul li{margin-bottom:10px}.footer-links-container div .footer-blocks.block-copyright{padding-right:10px}@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (-webkit-min-device-pixel-ratio:1){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (-webkit-min-device-pixel-ratio:1){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div{grid-template-columns:20% 20% 20% 20%}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}.footer-links-container div .footer-blocks{font-size:1.1em!important}.footer-links-container div .footer-blocks.block-social-buttons{font-size:2em!important}.footer-links-container div .footer-blocks.block-social-buttons a{margin:0 auto}}@media only screen and (min-device-width:834px) and (max-device-width:1112px) and (-webkit-min-device-pixel-ratio:2){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media only screen and (min-device-width:1112px) and (max-device-width:1112px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media only screen and (min-device-width:1024px) and (max-device-width:1366px) and (-webkit-min-device-pixel-ratio:2){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media only screen and (min-device-width:1024px) and (max-device-width:1024px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:2){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media only screen and (min-device-width:1366px) and (max-device-width:1366px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:2){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media (min-device-width:800px) and (max-device-width:1280px){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div{grid-template-columns:20% 20% 20% 20%}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media (min-device-width:800px) and (max-device-width:1280px) and (-webkit-min-device-pixel-ratio:2){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div{grid-template-columns:20% 20% 20% 20%}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media screen and (device-width:601px) and (device-height:906px) and (-webkit-min-device-pixel-ratio:1.331) and (-webkit-max-device-pixel-ratio:1.332){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div{grid-template-columns:20% 20% 20% 20%}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media screen and (device-width:1536px) and (device-height:2048px) and (-webkit-min-device-pixel-ratio:1.331) and (-webkit-max-device-pixel-ratio:1.332){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div{grid-template-columns:20% 20% 20% 20%}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media only screen and (min-device-width:800px) and (max-device-width:1280px) and (-webkit-min-device-pixel-ratio:1.5){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media only screen and (min-device-width:1200px) and (max-device-width:1600px) and (-webkit-min-device-pixel-ratio:1.5){.footer-links-container{grid-template-columns:4vw 4fr 4vw}.footer-links-container div .footer-blocks.block-information-pages ul{display:flex;justify-content:space-between}}@media only screen and (max-width:768px),only screen and (max-width:960px){.footer-links-container div{grid-template-columns:1fr;grid-template-areas:"support" "secondary" "resources" "trustAndSaftey" "orientation" "social" "copyRights" "informationPages"}.footer-links-container div .footer-blocks{font-size:.75em}.footer-links-container div .footer-blocks.block-orientation{justify-self:center}.footer-links-container div .footer-blocks.block-orientation .yp-site-name{text-decoration:none}.footer-links-container div .footer-blocks .footer-item{display:block;font-size:.85em;cursor:pointer;padding:15px 10px;width:97%}.footer-links-container div .footer-blocks .footer-item:after{content:'';display:inline-block;padding:3px;transform:rotate(45deg);-webkit-transform:rotate(45deg);float:right}.footer-links-container div .footer-blocks.block-information-pages ul{font-size:.8em;display:flex;justify-content:flex-start}.footer-links-container div .footer-blocks .accordion-list,.footer-links-container div .footer-blocks.block-rating-links{display:none}.footer-links-container div .footer-blocks input:checked~.accordion-list{display:block;margin-top:0;margin-left:20px;margin-bottom:12px;-webkit-transform:none;transform:none;-webkit-transition:-webkit-transform .3s ease;transition:-webkit-transform .3s ease;transition:transform .3s ease;transition:transform .3s ease,-webkit-transform .3s ease}.footer-links-container div .footer-blocks input:checked~label.footer-item:after{top:3px;position:relative;transform:rotate(-135deg);-webkit-transform:rotate(-135deg)}.footer-links-container div .footer-blocks.block-copyright{margin-bottom:5px}.footer-links-container div .footer-blocks.block-copyright,.footer-links-container div .footer-blocks.block-social-buttons{justify-self:center}.footer-links-container div .footer-blocks.block-resources,.footer-links-container div .footer-blocks.block-support,.footer-links-container div .footer-blocks.block-trustAndSaftey,.footer-links-container div .footer-blocks.block-work-with-us{margin:5px 0 0}.footer-links-container div .footer-blocks.block-social-buttons{font-size:1.2em;grid-template-columns:repeat(2,2.3em)}.footer-links-container div .footer-blocks.block-social-buttons a{margin:0 auto}}.footer-links-container{background-color:var(--dark-gray)}@media only screen and (max-width:768px),only screen and (max-width:960px){.footer-links-container div .footer-blocks.block-resources,.footer-links-container div .footer-blocks.block-support,.footer-links-container div .footer-blocks.block-trustAndSaftey,.footer-links-container div .footer-blocks.block-work-with-us{border-bottom:1px solid var(--mid-gray)}.footer-links-container div .footer-blocks.block-resources .footer-item:after,.footer-links-container div .footer-blocks.block-support .footer-item:after,.footer-links-container div .footer-blocks.block-trustAndSaftey .footer-item:after,.footer-links-container div .footer-blocks.block-work-with-us .footer-item:after{border-right:2px solid var(--shadow-dark-gray);border-bottom:2px solid var(--shadow-dark-gray)}}.footer-links-container{color:var(--shadow-dark-gray)}.footer-links-container div .footer-blocks .icon-orientation-gay,.footer-links-container div .footer-blocks a{color:var(--shadow-dark-gray)}.footer-links-container div .footer-blocks .accordion-list a,.footer-links-container div .footer-blocks.block-social-buttons a{color:var(--light-theme-light-gray)}.video-box{box-sizing:border-box;margin:0 auto 20px;position:relative;width:100%;max-width:420px;display:grid;grid-template-columns:1fr;grid-template-rows:auto auto}.video-box .video-box-image{color:var(--light-gray);font-size:.8em;font-weight:700;line-height:1.4em;z-index:8;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;position:relative;display:block;aspect-ratio:1.77777778}.video-box .video-title{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.8em;padding:4px 10px 2px;font-weight:700;line-height:1.4em;z-index:16;color:var(--light-gray);border-bottom:1px solid var(--dark-gray)}.video-box .video-properties{position:absolute;display:flex;gap:3px;font-size:1em;font-weight:400;bottom:5px;right:5px;z-index:9}.video-box .video-properties .video-best-resolution,.video-box .video-properties .video-duration{border-radius:2px;padding:4px 5px;color:var(--main-text);background-color:rgba(0,0,0,.8);line-height:15px}.video-box .thumb-image-container{position:relative}.video-box .thumb-image-container img{height:auto;width:100%}.video-box .thumb-info-container{display:flex;justify-content:space-between;position:relative;height:20px;padding:6px 10px 0 10px}.video-box .thumb-info-container .info-rate-views{display:flex;align-items:center}.video-box .thumb-info-container .info-rate-views span{color:var(--main-theme);cursor:pointer;font-size:.9em}.video-box .thumb-info-container .info-rate-views .channel-title{font-size:1em;font-weight:700;font-style:italic;line-height:1.1}.video-box .thumb-info-container .add-to-button,.video-box .thumb-info-container .close-add-to-button{font-size:.75em;cursor:pointer;z-index:12;background:0 0;position:relative;display:block;height:20px;width:20px}.video-box .thumb-info-container .add-to-button>i,.video-box .thumb-info-container .close-add-to-button>i{pointer-events:none}.video-box .thumb-info-container .close-add-to-button{display:none}.video-box .thumb-info-container .channel-pornstar-links{font-size:.75em;color:var(--shadow-dark-gray);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:250px}.video-box .webm-preloadLine{background:var(--main-theme);position:absolute;left:0;top:0;width:0;height:2px;z-index:2;transition:width .8s ease;-webkit-transition:width .8s ease}@media (orientation:landscape){.video-box-list{display:grid;grid-template-columns:1fr 1fr;grid-gap:16px;padding:0 10px}}.watch-container{margin:0 auto 20px;width:100%}.videoTags .categories-tags{text-transform:capitalize}.watch-contentWrapper .feature-tabsWrapper{display:flex;background:var(--dark-gray);margin:5px auto 0;outline:0;overflow:hidden;width:100%}.watch-contentWrapper .feature-tab{font-size:.9em;flex:1;color:var(--light-gray);display:table-cell;background-color:var(--dark-gray);text-transform:uppercase;padding:10px 0;text-align:center;box-sizing:border-box}.watch-contentWrapper .feature-tab.active{color:var(--main-text);border-bottom:2px solid var(--main-theme)}.watch-contentWrapper .contentTab{margin-top:5px}.view-all-button{background-color:var(--main-theme);color:var(--main-text);display:block;width:75%;margin:0 auto 8px;padding:7px;box-sizing:border-box;border-radius:5px;border:none;text-align:center;text-decoration:none;font-size:.9em}.view-all-button:hover{background:var(--main-theme);color:var(--main-text)}.playWrapper{position:relative}.playWrapper:before{display:block;content:"";width:100%;padding-top:56.25%}@media only screen and (min-aspect-ratio:13/9){.playWrapper{max-width:410px;margin:0 auto}}.playWrapper #videoContainer{position:absolute;top:0;bottom:0;left:0;right:0}.video-featureWrapper{padding:0px}.watch-metadata{width:100%;overflow:hidden}.videoTitle{font-size:1em;margin:0;padding:5px 0;font-weight:700;hyphens:auto;-moz-hyphens:auto;-webkit-hyphens:auto;-ms-hyphens:auto;line-height:1.2em}.topTitleWrap{margin:0 10px 10px 10px}.video-actionsWrapper{color:var(--light-gray);display:flex;flex-direction:row;flex-wrap:nowrap;align-items:center;justify-content:space-between;padding:5px 5px;font-size:1em}@media screen and (max-width:321px){.video-actionsWrapper{font-size:.8em}}.video-actionsWrapper.feature-video-jump{font-size:.9em}@media screen and (max-width:321px){.video-actionsWrapper.feature-video-jump{font-size:.7em}}.action-section{display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:flex-start;align-items:center}.action-section .feature-action{margin-right:5px;margin-left:5px}.action-section .feature-action [class^=icon-]:before{color:var(--light-gray)!important}.action-section .feature-action.videoDislike{transform:rotate(180deg);-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg)}.action-section .feature-action.feature-actionViews{display:flex;align-items:center;min-height:27px;gap:5px}.action-section:not(:last-child):after{background-color:var(--light-gray);content:'';width:1px;height:24px;margin-left:6px}.action-section .infoViews{text-overflow:ellipsis;max-width:50px;overflow:hidden;white-space:nowrap}.video-uploaderInfoWrapper .video-uploaderInfoPanel{border:0;padding:0;margin:10px 2px 10px}.video-uploaderInfoWrapper .watchTopInfoPanelTable{display:flex;flex-direction:row;flex-wrap:nowrap}.video-uploaderInfoWrapper .watchTopInfoPanelTable .avatar-image-wrapper{margin-right:15px}.video-uploaderInfoWrapper .watchTopInfoPanelTable .avatar-image-wrapper img.userAvatar{position:relative;width:75px;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.video-uploaderInfoWrapper .watchTopInfoPanelTable .infoMobileFlex{display:flex;flex-wrap:nowrap}.video-uploaderInfoWrapper .watchTopInfoPanelCol{display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center}.video-uploaderInfoWrapper .submitByLink{font-size:1em;font-weight:600}.video-uploaderInfoWrapper .submitByLink a{color:var(--main-text)}.video-uploaderInfoWrapper .subscribersInfo{display:flex;flex-direction:row;flex-wrap:nowrap;padding-top:5px;align-items:center}.video-uploaderInfoWrapper .subscribersInfo .subscribersSimpleInfo{font-size:.7em;color:var(--light-gray);display:flex;align-items:center;padding:6px 0;line-height:normal;margin-right:5px;gap:5px}.video-uploaderInfoWrapper .subscribersInfo .subscribersSimpleInfo:not(:last-child):after{background-color:var(--light-gray);content:'';width:1px;height:15px;margin-left:5px}.video-uploaderInfoWrapper .subscriptionInfoWithButton{margin-right:5px}.video-uploaderInfoWrapper .subscriptionInfoWithButton .subscribeButton{color:var(--main-text);font-size:.8em;min-width:100px;padding:6px;margin:0;width:100%}.video-uploaderInfoWrapper .subscriptionInfoWithButton .icon-circle-plus{color:var(--main-text);font-size:1em}@media only screen and (max-width:396px){.video-uploaderInfoWrapper .subscribersInfo{flex-wrap:wrap}}@media only screen and (max-width:369px){.video-actionsWrapper.feature-video-jump{font-size:.66em}}.jump-to-wrraper{margin-bottom:20px}.jump-to-wrraper label{margin-bottom:10px;display:block}.jump-to-wrraper .jump-to-action-carousel{overflow:hidden;height:100%;width:100%;-webkit-overflow-scrolling:touch;box-sizing:border-box;overflow-x:scroll;overflow-y:hidden;white-space:nowrap;scroll-snap-type:x mandatory;padding:5px 0}.jump-to-wrraper .bubble-button{scroll-snap-align:start;display:inline-block;float:none;background:0 0;border:1px solid var(--mid-gray);border-radius:15px;font-weight:400;line-height:15px;margin-bottom:4px;padding:6px 12px;cursor:pointer;text-decoration:none;color:var(--bubble-text)}.jump-to-wrraper .white{color:var(--main-text)}.showMoreLess-btn{border-bottom:1px solid var(--dark-gray);clear:both;font-size:1em;text-align:center;line-height:.1em;margin:10px 0 20px;width:100%}.showMoreLess-btn span{cursor:pointer;background-color:var(--main-background);font-weight:700;padding:0 10px}#showMoreUnderplayerInfoBox{font-size:.9em}#showMoreUnderplayerInfoBox .video-info{font-size:1em;line-height:1.2em;padding-bottom:9px;margin-top:10px}#showMoreUnderplayerInfoBox .video-info.col{display:flex}#showMoreUnderplayerInfoBox .video-info label{font-weight:600}#showMoreUnderplayerInfoBox .video-info .video-infoCol:last-child{padding:0 10px}#metaDataPornstarInfo{display:flex;gap:30px;padding:12px 0;-webkit-overflow-scrolling:touch;box-sizing:border-box;overflow-x:scroll;overflow-y:hidden;white-space:nowrap;width:100%;scroll-snap-type:x mandatory}.watchTopCategoriesWrapper{overflow:hidden;padding:5px 0;}.watchTopCategoriesWrapper .categoriesWrapper{-webkit-overflow-scrolling:touch;box-sizing:border-box;overflow-x:scroll;overflow-y:hidden;white-space:nowrap;width:100%;scroll-snap-type:x mandatory;display:flex}.watchTopCategoriesWrapper ul{overflow:hidden;display:flex}.watchTopCategoriesWrapper li{scroll-snap-align:start;display:inline-block}.watchTopCategoriesWrapper .button{background:0 0;border:1px solid var(--mid-gray);border-radius:15px;font-weight:400;line-height:30px;padding:6px 12px;cursor:pointer;font-size:.8em;margin:0 5px;text-align:center}.watchTopCategoriesWrapper .button.bubble-button{background:0 0;border:1px solid var(--bubble-text);color:var(--bubble-text);border-radius:15px;line-height:15px;padding:8px 12px;font-weight:400}.watchTopCategoriesWrapper .button.categories-tags{border-color:var(--mid-gray)}.video-info.footer{margin:30px 0;display:flex;align-content:center;flex-wrap:nowrap;justify-content:space-around;font-size:.9em;line-height:1.5em}.video-infoCol.share-button{color:var(--light-gray);font-weight:600;font-size:1em}.videoInfoSocial{border:0;margin:2px auto 30px auto;width:92%}.videoInfoSocial .copyLink{position:relative;font-size:1.4em;display:block;margin-bottom:10px}.copyLink input{border:1px solid var(--mid-gray-border);min-height:39px;background:0 0;box-sizing:border-box;display:block;margin:0 5px;width:98%;padding:10px 56px 10px 10px;border-radius:3px;font-size:.6em;line-height:14px}.copyLink input:disabled{opacity:1}.copyLink .button{font-size:.65em;width:55px;position:absolute;margin:0;right:0;top:0;box-sizing:border-box;border-radius:3px;border-top-left-radius:0;border-bottom-left-radius:0;text-align:center;padding:10px 0;line-height:1.4}.mgp_container{height:100% !important;width:100% !important;position:relative;background:#000;overflow:hidden;color:#fff}.mgp_container,.mgp_container *{box-sizing:border-box !important;-webkit-tap-highlight-color:transparent}.mgp_container div,.mgp_container span,.mgp_container p,.mgp_container a,.mgp_container img,.mgp_container b,.mgp_container ul,.mgp_container li,.mgp_container canvas,.mgp_container video{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline}.mgp_container ul{list-style:none}.mgp_container video{border:none}.mgp_container .mgp_videoWrapper{position:absolute;top:0;left:0;z-index:1;width:100%;height:100%}.mgp_container .mgp_videoWrapper video,.mgp_container .mgp_videoWrapper canvas{position:absolute;top:0;left:0;z-index:0}.mgp_container button{overflow:visible}.mgp_container button::-moz-focus-inner{padding:0;border:0}.mgp_container *{outline:none}.mgp_container,.mgp_container *{-webkit-touch-callout:none !important;-webkit-user-select:none !important;-khtml-user-select:none !important;-moz-user-select:none !important;-ms-user-select:none !important;-o-user-select:none;user-select:none !important}.mgp_container *::selection{background:transparent}@keyframes dash{0%{stroke-dasharray:1,200;stroke-dashoffset:0}50%{stroke-dasharray:89,200;stroke-dashoffset:-35px}100%{stroke-dasharray:89,200;stroke-dashoffset:-124px}}@keyframes dash{0%{stroke-dasharray:1,240;stroke-dashoffset:0}50%{stroke-dasharray:89,240;stroke-dashoffset:-35px}100%{stroke-dasharray:89,240;stroke-dashoffset:-124px}}.mgp_container .mgp_videoWrapper canvas{visibility:hidden}@font-face{font-family:"icon-font";font-style:normal;font-weight:400;font-display:auto;src:url() format("woff"),url() format("truetype")}@-webkit-keyframes seekAnimation{0%,100%{opacity:0}50%{opacity:1}}@keyframes seekAnimation{0%,100%{opacity:0}50%{opacity:1}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}@supports not (-webkit-appearance: -wireless-playback){}.ydj3t3nag3vc .,.qn06d8f .{justify-self: end;}.mgp_container{height:100% !important;width:100% !important;position:relative;background:#000;overflow:hidden;color:#fff}.mgp_container,.mgp_container *{box-sizing:border-box !important;-webkit-tap-highlight-color:transparent}.mgp_container div,.mgp_container span,.mgp_container p,.mgp_container a,.mgp_container img,.mgp_container b,.mgp_container ul,.mgp_container li,.mgp_container canvas,.mgp_container video{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline}.mgp_container ul{list-style:none}.mgp_container video{border:none}.mgp_container .mgp_videoWrapper{position:absolute;top:0;left:0;z-index:1;width:100%;height:100%}.mgp_container .mgp_videoWrapper video,.mgp_container .mgp_videoWrapper canvas{position:absolute;top:0;left:0;z-index:0}.mgp_container button{overflow:visible}.mgp_container button::-moz-focus-inner{padding:0;border:0}.mgp_container *{outline:none}.mgp_container,.mgp_container *{-webkit-touch-callout:none !important;-webkit-user-select:none !important;-khtml-user-select:none !important;-moz-user-select:none !important;-ms-user-select:none !important;-o-user-select:none;user-select:none !important}.mgp_container *::selection{background:transparent}#videoContainer .mgp_videoPoster{background-color:none;display:block;height:100%;left:0;overflow:hidden;position:absolute;top:0;width:100%;z-index:5}#videoContainer .mgp_videoPoster img{height:auto;left:50%;position:absolute;top:50%;transform:translate(-50%, -50%);width:100%}#videoContainer .mgp_thumbnails{position:absolute;left:0;right:0;z-index:6;pointer-events:none;opacity:1;transition:opacity .2s linear,transform .1s ease-out}#videoContainer .mgp_thumbnails.mgp_hidden{pointer-events:none;opacity:0;transform:translate(0, -10px)}#videoContainer .mgp_thumbnails.mgp_thumbLoading{display:none}#videoContainer .mgp_thumbnails .mgp_sprite{left:50%;top:50%;transform:translate(-50%, -50%)}#videoContainer .mgp_thumbnails .mgp_thumbTitle{border-radius:0;position:relative;width:110px;padding:0 7.5px;font-size:14px;line-height:1;text-align:center;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;display:none;margin-bottom:4px}#videoContainer .mgp_thumbnails .mgp_crop{width:110px;height:54px;border-radius:3px;overflow:hidden;background:#000;margin-bottom:5px}#videoContainer .mgp_thumbnails .mgp_rect{overflow:hidden;position:absolute;left:0;bottom:0;padding:4px 5px;border-radius:7px;border:0;background:linear-gradient(180deg, rgba(13, 13, 13, 0.325) 0%, rgba(0, 0, 0, 0.8) 100%)}#videoContainer .mgp_thumbnails .mgp_rect .mgp_sprite{max-width:160px;overflow:hidden;position:relative}#videoContainer .mgp_thumbnails .mgp_rect .mgp_sprite .mgp_image{position:absolute;top:0;left:0}#videoContainer .mgp_thumbnails .mgp_rect .mgp_selectedTime{color:#ccc;left:0;right:0;line-height:1;text-align:center;z-index:2;font-size:12px}#videoContainer .mgp_castOverlay{opacity:0;outline:none;position:absolute;transition:opacity .3s linear;z-index:1}@keyframes dash{0%{stroke-dasharray:1,200;stroke-dashoffset:0}50%{stroke-dasharray:89,200;stroke-dashoffset:-35px}100%{stroke-dasharray:89,200;stroke-dashoffset:-124px}}#videoContainer .mgp_screenMsg{-webkit-touch-callout:none !important;-webkit-user-select:none !important;-khtml-user-select:none !important;-moz-user-select:none !important;-ms-user-select:none !important;-o-user-select:none;user-select:none !important;font-weight:bold;opacity:1;pointer-events:none;text-transform:uppercase;white-space:nowrap;transition:opacity .5s ease-in-out}#videoContainer .mgp_overlayContainer{z-index:6;pointer-events:none;position:absolute;top:0;left:0;height:100%;width:100%}#videoContainer.mgp_readyState .mgp_overlayContainer{display:none}@keyframes dash{0%{stroke-dasharray:1,240;stroke-dashoffset:0}50%{stroke-dasharray:89,240;stroke-dashoffset:-35px}100%{stroke-dasharray:89,240;stroke-dashoffset:-124px}}#videoContainer .mgp_icon{position:absolute;pointer-events:none;width:100%;height:100%}#videoContainer .mgp_icon svg{position:absolute;width:100%;height:100%;left:50%;top:50%;transform:translate(-50%, -50%);pointer-events:none}#videoContainer .mgp_icon path{fill:#fff;pointer-events:none}#videoContainer .mgp_bufferIcon circle{stroke-dasharray:1,200;stroke-dashoffset:0;stroke:#fff;animation:dash 1.5s ease-in-out infinite;stroke-linecap:round;fill:transparent}#videoContainer .mgp_playbackBtn{cursor:pointer;width:100%;height:100%;opacity:0;transition:opacity .2s}#videoContainer .mgp_playbackBtn .mgp_icon{left:60%;top:60%;transform:translate(-50%, -50%);opacity:0;transition:opacity .2s}#videoContainer .mgp_playbackBtn .mgp_icon.mgp_playIcon{transform:translate(-40%, -50%)}#videoContainer.mgp_readyState .mgp_playbackBtn.mgp_playIconOnReady{opacity:1}#videoContainer.mgp_readyState .mgp_playbackBtn.mgp_playIconOnReady .mgp_playIcon{opacity:1;transition-delay:.5s;pointer-events:auto}#videoContainer .mgp_nextBtn{border:0;background:transparent;width:100%;height:100%;cursor:pointer}#videoContainer .mgp_nextBtn .mgp_icon{top:50%;left:50%;transform:translate(-50%, -50%);width:40%;height:40%}#videoContainer .mgp_overlayContainer{transition:top .25s ease-in-out}#videoContainer .mgp_fakeFsScrollPromptScreen{height:100vh !important;left:0;position:fixed;right:0;top:0;z-index:9999 !important;align-items:center;color:#fff;display:none;flex-direction:column;font-size:20px;font-weight:bold;justify-content:center;opacity:0;text-transform:uppercase;transition:opacity .25s ease-in-out}#videoContainer .mgp_fakeFsScrollPromptScreen{-webkit-touch-callout:none !important;-webkit-user-select:none !important;-khtml-user-select:none !important;-moz-user-select:none !important;-ms-user-select:none !important;-o-user-select:none;user-select:none !important}#videoContainer .mgp_fakeFsPromptControls{width:100%;margin-bottom:25px;position:relative}#videoContainer .mgp_fakeFsPromptPlayback{position:absolute;left:50%;transform:translate(-50%);width:25px;height:25px}#videoContainer .mgp_fakeFsPromptNext{position:absolute;right:15%;width:25px;height:25px}#videoContainer .mgp_fakeFsPromptBox{font-size:15px;font-weight:normal;display:flex;flex-direction:column-reverse;align-items:center;position:absolute;bottom:100px}#videoContainer .mgp_fullscreen{width:35px;height:22px;position:relative}#videoContainer .mgp_tooltip{position:absolute;left:-10000px;top:-10000px;z-index:7;background:rgba(0,0,0,.75);padding:4px 10px;cursor:default;pointer-events:none;opacity:1;transition:opacity .2s linear}#videoContainer .mgp_tooltip.mgp_hidden{pointer-events:none;opacity:0;transform:translate(0, 0%)}#videoContainer .mgp_tooltip .mgp_title{text-align:center;white-space:nowrap}#videoContainer .mgp_tooltip .mgp_arrow{border:7px solid transparent;display:block;position:absolute;width:0;height:0;margin:0;padding:0}#videoContainer .mgp_seekbar{bottom:100%;height:16px;position:absolute;width:calc(100% - 30px);left:15px;transition:width .25s,left .25s;z-index:2}#videoContainer .mgp_seekbar .mgp_actionTag{position:absolute;left:0;min-width:4px;height:100%;margin:auto;opacity:.5;background-color:#fff;background-clip:content-box;z-index:5;box-sizing:content-box;overflow:hidden}#videoContainer .mgp_progressBarHandleCenter{background-color:rgba(255,255,255,.2);border-radius:100px;height:22px;left:50%;position:absolute;top:50%;transform:translate(-50%, -50%);width:22px}#videoContainer.mgp_mobile .mgp_seekbar{height:32px;width:unset;flex-grow:1;position:relative;left:0;margin:0 5px}#videoContainer.mgp_mobile .mgp_seekbar .mgp_progressBar{height:2px;top:calc(50% - 1px)}#videoContainer.mgp_mobile .mgp_seekbar .mgp_progressBarHandle{width:8px;height:8px}#videoContainer.mgp_mobilePlayer .mgp_seekbar .mgp_actionTag{z-index:4}#videoContainer .mgp_progressWrapper{height:100%;position:absolute;width:100%;cursor:pointer}#videoContainer .mgp_progressBar{height:6px;position:absolute;top:calc(50% - 3px);background-color:#282828;width:100%}#videoContainer.mgp_mobile .mgp_progressBar{background-color:#6d6d6d}#videoContainer .mgp_progressElapsed{width:100%;height:100%;position:absolute;width:0%;z-index:5;transition:width .25s;transition-timing-function:linear}#videoContainer .mgp_progressBarHandle{position:absolute;left:100%;top:50%;transform:translate(-50%, -50%);background-color:#fff;width:0;height:0;border-radius:10px;transition:width .25s,height .25s}#videoContainer .mgp_backDrop{background:rgba(0,0,0,.7);height:100%;opacity:0;pointer-events:none;position:absolute;transition:opacity .5s ease-in-out;width:100%;z-index:2}#videoContainer:not(.mgp_embedded):not(.mgp_shortyMode):not(.mgp_desktopPlayer).mgp_showControls>.mgp_backDrop,#videoContainer:not(.mgp_embedded):not(.mgp_shortyMode):not(.mgp_desktopPlayer).mgp_readyState>.mgp_backDrop{opacity:1}#videoContainer:focus{outline:none}#videoContainer .mgp_screenshot{position:absolute;top:0;left:0;width:100%;height:100%;z-index:2;opacity:1;pointer-events:none}#videoContainer .mgp_screenshot canvas{position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);backface-visibility:hidden;-webkit-backface-visibility:hidden;-webkit-touch-callout:none}#videoContainer,#videoContainer *{-webkit-touch-callout:none !important;-webkit-user-select:none !important;-khtml-user-select:none !important;-moz-user-select:none !important;-ms-user-select:none !important;-o-user-select:none;user-select:none !important;font:400 14px/20px "Helvetica Neue",Helvetica,arial,sans-serif}#videoContainer .mgp_overlayContainer{z-index:6;pointer-events:none;position:absolute;top:0;left:0;height:100%;width:100%}#videoContainer.mgp_readyState .mgp_overlayContainer{display:none}.mgp_container .mgp_videoWrapper canvas{visibility:hidden}@font-face{font-family:"icon-font";font-style:normal;font-weight:400;font-display:auto;src:url() format("woff"),url() format("truetype")}#videoContainer .mgp_icon{font-family:"icon-font" !important;speak:none !important;font-style:normal !important;font-weight:normal !important;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased !important;-moz-osx-font-smoothing:grayscale !important}#videoContainer .mgp_controlBar{align-items:center;background:linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, black 100%);bottom:0;display:-webkit-box;display:-moz-box;display:-webkit-flex;display:flex;color:#ccc;position:absolute;width:100%;z-index:3;transition:opacity .5s ease,transform .5s ease}#videoContainer .mgp_controlBar .mgp_time_elapsed,#videoContainer .mgp_controlBar .mgp_time_total{-webkit-justify-content:center;justify-content:center;font-size:14px;line-height:46px;text-align:center;display:-webkit-box;display:-moz-box;display:-webkit-flex;display:flex;-webkit-flex:0 0 auto;flex:0 0 auto;align-items:center;margin-left:10px}#videoContainer .mgp_controlBar .mgp_time_elapsed{margin:0 10px 0 15px}#videoContainer .mgp_controlBar .mgp_fullscreen{display:-webkit-box;display:-moz-box;display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;-webkit-flex:0 0 44px;flex:0 0 44px;height:44px;-webkit-box-ordinal-group:10;-moz-box-ordinal-group:10;-webkit-order:10;order:10}#videoContainer .mgp_controlBar .mgp_fullscreen.mgp_nativeFS .mgp_icon{width:50%;height:50%;left:50%;top:50%;transform:translate(-50%, -50%);position:absolute;width:55%;height:100%}#videoContainer .mgp_controlBar .mgp_fullscreen.mgp_nativeFS .mgp_fullscreenIcon{opacity:1;pointer-events:auto}#videoContainer .mgp_controlBar .mgp_fullscreen.mgp_nativeFS .mgp_fullscreenExitIcon{opacity:0;pointer-events:none}#videoContainer .mgp_actionTag{position:absolute;width:100%}#videoContainer .mgp_actionTag{left:0;position:absolute}#videoContainer .mgp_actionTag{position:absolute;left:0;min-width:4px;height:100%;margin:auto;opacity:1;background-color:#000;background-clip:content-box;z-index:3;box-sizing:content-box;overflow:hidden}#videoContainer .mgp_autoplay{display:none;cursor:pointer;height:44px;text-align:center;vertical-align:middle;width:44px}#videoContainer .mgp_autoplay:hover .mgp_apBar{opacity:1}#videoContainer .mgp_apBar{height:20px;width:32px;border-radius:16px;top:50%;left:50%;transform:translate(-50%, -50%);position:relative;overflow:hidden}#videoContainer .mgp_apBarFront{width:100%;height:100%;background-color:#c6c6c6;border-radius:16px;opacity:1;transition:background-color .2s}#videoContainer.mgp_showControls .mgp_controlBar{transform:translate3d(0, 0px, 0)}#videoContainer:not(.mgp_tablet) .mgp_autoplay{margin:0 3px}#videoContainer:not(.mgp_tablet) .mgp_fullscreen{font-size:18px}#videoContainer .mgp_optionsBtn{width:44px !important}#videoContainer .mgp_optionsBtn.mgp_HD:after{content:"HD";position:absolute;top:8px;left:50%;font:900 7px/1 "Arial Black",Arial,sans-serif;display:block;border-radius:2px;padding:2px;color:#000}#videoContainer .mgp_optionsMenu{position:absolute;z-index:10;height:100%;max-height:270px;width:260px;left:50%;top:50%;opacity:0;transform:translate(-50%, -100%);transition:all .4s ease;pointer-events:none;will-change:transform}#videoContainer .mgp_optionsMenu .mgp_content{position:absolute;top:42px;left:0;right:-3px;padding-right:3px;bottom:0;overflow-x:none;overflow-y:auto;will-change:transform;-webkit-overflow-scrolling:touch;opacity:1;transform:translate(0, 0)}#videoContainer .mgp_optionsMenu ul{margin:0;padding:6px 0;position:relative;opacity:1;transform:translate(0, 0)}#videoContainer .mgp_optionsMenu ul li{color:#fff;padding:4px 18px 4px 6px;margin:0;font-size:16px;line-height:23px;cursor:pointer;white-space:nowrap;border-radius:6px;position:relative}#videoContainer .mgp_optionsMenu ul li.mgp_active{color:#fff;cursor:default;padding-right:20px}#videoContainer .mgp_optionsMenu ul li.mgp_active:after{content:"";width:8px;height:18px;color:#fff !important;border-right:2px solid #fff;border-bottom:2px solid #fff;position:absolute;top:4px;right:10px;transform:rotate(45deg)}#videoContainer .mgp_optionsMenu ul li b{display:inline-block;font-weight:bold;width:20px;text-align:center}#videoContainer .mgp_optionsMenu.mgp_optionsMenuSingle .mgp_mainPage.mgp_alternative>ul{display:block}#videoContainer .mgp_optionsClickHandler{position:absolute;bottom:-100%;right:-100%;top:-100%;left:-100%;background:rgba(0,0,0,0)}#videoContainer .mgp_optionsBackground,#videoContainer .mgp_mainPage,#videoContainer .mgp_subPage,#videoContainer .mgp_subSubPage{width:100% !important;height:100% !important}#videoContainer .mgp_mainPage{position:absolute;bottom:0;right:0;padding:0;z-index:6;overflow:hidden;will-change:transform}#videoContainer .mgp_mainPage>ul{will-change:transform;transition:opacity .15s linear,transform .15s ease-out}#videoContainer .mgp_optionsSwitches{overflow:hidden}@media(max-width: 300px){#videoContainer .mgp_optionsSwitches{overflow:auto;max-height:calc(100% - 42px)}}#videoContainer .mgp_mainPage .mgp_optionsHeader,#videoContainer .mgp_subPage .mgp_optionsHeader,#videoContainer .mgp_subSubPage .mgp_optionsHeader{padding:6px 18px 6px 36px;font-size:20px;line-height:28px;white-space:nowrap;height:42px;cursor:pointer;border-bottom:1px solid #fff;color:#fff;position:relative;transform:translate(0, 0);z-index:5;will-change:transform}#videoContainer .mgp_subPage,#videoContainer .mgp_subSubPage{z-index:6;position:absolute;bottom:0;right:0;opacity:0;pointer-events:none;overflow:hidden}#videoContainer .mgp_subPage:after,#videoContainer .mgp_subSubPage:after{content:"";width:14px;height:14px;border-left:2px solid #fff;border-bottom:2px solid #fff;position:absolute;top:14px;left:14px;transform:rotate(45deg)}#videoContainer .mgp_subPage>.mgp_content,#videoContainer .mgp_subSubPage>.mgp_content{pointer-events:none;opacity:0;transform:translate(260px, 0);transition:opacity .15s linear,transform .15s ease-out}#videoContainer .mgp_optionsMenu .mgp_mainPage.mgp_alternative>ul{padding:4px 0;display:flex;flex-flow:row wrap}#videoContainer .mgp_thumbnails{bottom:45px}#videoContainer .mgp_thumbnails.mgp_hidden{pointer-events:none;opacity:0;transform:translate(0, -10px)}#videoContainer .mgp_thumbnails .mgp_crop{width:110px;height:54px;border-radius:3px;overflow:hidden}#videoContainer .mgp_thumbnails .mgp_shadow{bottom:1px;left:1px;right:1px}#videoContainer .mgp_fastForwardCont,#videoContainer .mgp_rewindCont{position:absolute;height:100%;width:100%;top:0;z-index:3;opacity:0;background-color:rgba(0,0,0,.4);transition:opacity .2s linear;pointer-events:none}#videoContainer .mgp_fastForwardCont .mgp_icon,#videoContainer .mgp_rewindCont .mgp_icon{width:50%;height:50%;left:50%;top:50%;transform:translate(-50%, -50%);position:absolute;width:25px;height:20px;left:calc(50% - 20px)}#videoContainer .mgp_fastForwardCont .mgp_icon,#videoContainer .mgp_rewindCont .mgp_icon{-webkit-animation-name:seekAnimation;animation-name:seekAnimation;-webkit-animation-duration:1.5s;-webkit-animation-iteration-count:infinite;animation-duration:1s;animation-iteration-count:infinite;opacity:0;display:inline-block}#videoContainer .mgp_fastForwardCont .mgp_icon:nth-child(2),#videoContainer .mgp_rewindCont .mgp_icon:nth-child(2){animation-delay:.2s;left:50%}#videoContainer .mgp_fastForwardCont .mgp_icon:nth-child(3),#videoContainer .mgp_rewindCont .mgp_icon:nth-child(3){animation-delay:.4s;left:calc(50% + 20px)}#videoContainer .mgp_forwardText,#videoContainer .mgp_rewindText{font-size:10px;top:50%;margin-top:10px;position:absolute;z-index:5}#videoContainer .mgp_fastForward,#videoContainer .mgp_rewind{position:absolute;z-index:5;width:60px;height:20px;top:50%;left:50%;margin-top:-20px;color:#ccc;background:transparent;background-color:transparent;border:0;opacity:1;transition:opacity .5s cubic-bezier(1, 0, 1, 0);pointer-events:none;overflow:hidden;padding:0px}#videoContainer .mgp_fastForward,#videoContainer .mgp_forwardText{left:65%}#videoContainer .mgp_rewind,#videoContainer .mgp_rewindText{left:auto;right:65%}#videoContainer .mgp_rewind{-webkit-transform:rotate(180deg);transform:rotate(180deg)}@-webkit-keyframes seekAnimation{0%,100%{opacity:0}50%{opacity:1}}@keyframes seekAnimation{0%,100%{opacity:0}50%{opacity:1}}#videoContainer .mgp_ccContainer{pointer-events:none;position:absolute;top:0;left:0;right:0;bottom:0;z-index:3;outline:none;transition:bottom .4s ease-in-out;display:flex;flex-direction:reverse-column;flex-wrap:wrap;align-content:flex-end}#videoContainer.mgp_showControls .mgp_ccContainer{bottom:36px}#videoContainer .mgp_actionTagsEnabled .mgp_actionTags{display:block}#videoContainer .mgp_actionTags{position:relative;float:right;height:44px;width:44px;line-height:1;background-color:transparent;border:0;z-index:5;color:#fff;transition:opacity .5s linear;display:none;opacity:1;transition:opacity .6s linear}#videoContainer .mgp_actionTags .mgp_icon{width:50%;height:50%;left:50%;top:50%;transform:translate(-50%, -50%);position:absolute;width:55%}#videoContainer .mgp_actionTags .mgp_exitIcon{opacity:0;display:none}#videoContainer .mgp_actionTag{background:#fff}#videoContainer .mgp_topBar{padding:0 15px;top:0;left:0;width:100%;position:absolute;z-index:10;display:none;background:linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0) 100%);transition:transform .5s ease;transform:translate(0, -50px)}#videoContainer .mgp_topBarContent{position:relative;height:45px}#videoContainer .mgp_topBarTitle{line-height:44px}#videoContainer .mgp_topBarTitle:not(.mgp_full-width){padding-right:80px}#videoContainer .mgp_topBarTitle a{text-decoration:none}#videoContainer .mgp_topBarTitle span{color:#fff;display:block;width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase}#videoContainer .mgp_topBarLogo{position:absolute;top:0;right:0;height:45px;max-width:80px}#videoContainer .mgp_castOverlay{left:15px;text-align:left;top:15px}#videoContainer .mgp_castOverlay,#videoContainer .mgp_castOverlay *{font-size:12px !important}#videoContainer .mgp_chromecast{transition:opacity .2s linear;opacity:1}#videoContainer .mgp_btn.mgp_chromecastBtn{fill:#ffffff;margin-right:2px;outline:none;padding:9px 0;--disconnected-color: #ffffff}#videoContainer .mgp_verticalControls{pointer-events:all;left:40px;opacity:0;position:absolute;top:calc((100% - 310px) / 2 - 32.5px);transition:opacity ease .5s;width:calc(100% - 40px)}#videoContainer .mgp_screenMsg{line-height:1;overflow:hidden;text-overflow:ellipsis}#videoContainer:not(.mgp_embedded).mgp_mobile:not(.mgp_hideControls) .mgp_overlayContainer{z-index:2}#videoContainer .mgp_bigPlay{position:absolute;z-index:4;width:75px;height:75px;left:50%;top:50%;transform:translate(-50%, -50%)}@keyframes fadeIn{from{opacity:0}to{opacity:1}}#videoContainer .mgp_smallPlay{position:absolute;bottom:0px;width:44px;height:44px;z-index:11;border:none;background-color:transparent;pointer-events:all}#videoContainer:not(.mgp_showOptions) .mgp_smallPlay{transition:opacity .5s;transition-timing-function:cubic-bezier(1, 0, 1, 0)}#videoContainer.mgp_mobile:not(.mgp_embedded) .mgp_smallPlay{top:calc(50% - 30px);left:calc(50% - 30px);width:60px;height:60px}#videoContainer.mgp_mobile:not(.mgp_embedded).mgp_readyState:not(.mgp_fake-fullscreen) .mgp_smallPlay{animation:.5s cubic-bezier(1, 0, 1, 0) normal fadeIn}#videoContainer .mgp_smallNextBtn{position:absolute;z-index:5;height:54px;width:54px;top:calc(50% - 27px);left:calc(50% - 27px);background-color:transparent;opacity:1;transition:opacity .5s cubic-bezier(1, 0, 1, 0);pointer-events:none}#videoContainer .mgp_smallNextBtn:focus{outline:none}#videoContainer:not(.mgp_showOptions):not(.mgp_actionTagsScreenVisible):not(.mgp_fake-fullscreen) .mgp_smallNextBtn{animation:.5s cubic-bezier(1, 0, 1, 0) normal fadeIn}#videoContainer:not(.mgp_tablet) .mgp_smallNextBtn{left:auto;right:76px}@media(max-width: 340px){#videoContainer:not(.mgp_tablet) .mgp_smallNextBtn{right:30px}}#videoContainer.mgp_readyState:not(.mgp_showOptions) .mgp_smallNextBtn{opacity:1;pointer-events:auto}#videoContainer .mgp_videoWrapper{background:#000}#videoContainer .mgp_screenshot.mgp_hidden{pointer-events:none;display:none;transform:translate(0%, 0%)}#videoContainer .mgp_screenshot canvas{visibility:visible}#videoContainer .mgp_videoElement{width:100%;height:100%}#videoContainer .mgp_videoElement::-webkit-media-controls-start-playback-button{display:none !important;-webkit-appearance:none}#videoContainer .mgp_eventCatcher{position:absolute;top:0;left:0;width:100%;height:100%;z-index:5 !important;display:none}#videoContainer .mgp_controls{position:absolute;height:100%;width:100%;top:0;z-index:3;opacity:1;transition:opacity .5s ease;pointer-events:none}#videoContainer.mgp_showControls .mgp_controls{pointer-events:none;opacity:1}#videoContainer.mgp_showControls:not(.mgp_embedded.mgp_playingState):not(.mgp_showGridPreview) .mgp_controls,#videoContainer.mgp_readyState .mgp_controls{opacity:1}#videoContainer.mgp_showControls .mgp_options,#videoContainer.mgp_readyState .mgp_options{transform:translate(0, 0)}#videoContainer.mgp_showControls .mgp_controlBar,#videoContainer.mgp_readyState .mgp_controlBar{transform:translate(0, 0)}#videoContainer .mgp_options{z-index:3;transition:transform .5s ease;transform:translate(0, -52px);position:absolute;top:2px;right:2px}#videoContainer .mgp_options>div{float:right}#videoContainer .mgp_options .mgp_optionsBtn,#videoContainer .mgp_options .mgp_chromecastBtn{position:relative;float:right;height:44px;width:44px;line-height:1;background-color:transparent;border:0;z-index:5;color:#fff;transition:opacity .5s linear}#videoContainer .mgp_options .mgp_optionsBtn .mgp_icon{width:50%;height:50%;left:50%;top:50%;transform:translate(-50%, -50%);position:absolute}#videoContainer .mgp_options .mgp_optionsBtn .mgp_icon.mgp_exitIcon{opacity:0}#videoContainer .mgp_options .mgp_optionsBtn{transition:transform .5s ease;transform:translate(0, 0);width:38px}#videoContainer .mgp_options .mgp_optionsBtn .mgp_icon{width:50%;height:50%;left:50%;top:50%;transform:translate(-50%, -50%);position:absolute}#videoContainer .mgp_options .mgp_optionsBtn .mgp_icon{opacity:1;transition:opacity .2s linear}#videoContainer .mgp_options .mgp_airplay{display:none;width:40px;height:40px}#videoContainer .mgp_options .mgp_airplay .mgp_airplayBtn{width:100%;height:40px}#videoContainer .mgp_options .mgp_airplay .mgp_airplayBtn .mgp_airplay-icon{position:relative;display:inline-block;width:24px;height:24px;margin:10px 8px 6px;background-image:-webkit-named-image(wireless-playback);background-size:100% 100%;background-position:center;background-repeat:no-repeat;-webkit-filter:invert(100%);filter:invert(100%)}@supports not (-webkit-appearance: -wireless-playback){#videoContainer .mgp_options .mgp_airplay .mgp_airplayBtn .mgp_airplay-icon{content:"Tv"}}#videoContainer.mgp_optionsMenuVisible .mgp_options .mgp_optionsBtn{transform:translateY(0) !important}#videoContainer .mgp_options .mgp_autoplay .mgp_apBar,#videoContainer .mgp_options .mgp_optionsBtn::after,#videoContainer .mgp_progressElapsed{background-color:  #ec567c;}#videoContainer .mgp_options .mgp_chromecast .mgp_chromecastBtn{--connected-color:  #ec567c;}.mgp_videoPoster iframe{width:100%;height: 00%;}
+        .seoku{display:block;margin:1rem;font-family:inherit} .seoku p{font-size:14px;color:#ffffff;line-height:1.2} .seoku h1{font-size: 20px !important;line-height:1.2} .seoku h2{font-size:18px;color:#ffffff;line-height: 1.2;} .seoku h3{font-size:16px;line-height: 1.2;} .seoku ul{list-style-type:disc;padding-left:3rem;color:#ffffff} .seoku li{font-size:16px;color:#ffffff;line-height:1}
+        #isAdsC, #isAdsC2 { max-width:500px;}@media screen and (max-width:767px) { .isAds, .isAds2 { height:auto; position:relative; } #isAdsC, #isAdsC2 { position:static; top:auto; left:auto; right:auto; opacity:1; max-width:500px; } } .isAds2 { position:absolute; bottom:0px; left:0; width:100%; height:9%; opacity:2%; z-index:2; }
+        </style></head>
+
+<body class=" en list lazy_bg Youporn" style="max-width:678px !important;margin: 0 auto;">
+    <div id="pageWrapper">
+        <div id="mainWrapper">
+            <header id="header" class="clearfix">
+                <div class="topHeader">
+                    <div>
+                        <div id="js_navigationMenu" class="menuBtn tm_hamburger_icon"><i class="icon-menu"></i></div>
+                    </div>
+                    <div class="logo">
+                        <img class="js_logo_img" title="" id="randomlogo" src="" alt="" width="115">
+                    </div>
+                    <div class="searchInput">
+                        <span id="search_toggle">Seacrh Videos...<i class="icon-magnifying-glass"></i></span>
+                    </div>
+                    <div id="js_userMenuTrigger">
+                        <div class="defaultUserAvatar-wrapper">
+                            <i id="js_defaultAvaterImg" class="icon-defaultUserAvatar">
+                                <span class="path1"></span>
+                                <span class="path2"></span>
+                                <span class="path3"></span>
+                                <span class="path4"></span>
+                            </i>
+                        </div>
+                    </div>
+                </div>
+                <div id="paidSites" class="js_paid-sites removeAdLink tm_header_main_menu">
+                    <div><span class="tm_paid_tab gtm-event-header-paidtabs"> LIVE GIRL</span></div>
+                    <div><span class="tm_paid_tab gtm-event-header-paidtabs"> TOP RATED</span></div>
+                    <div><span class="tm_paid_tab gtm-event-header-paidtabs"> MOST VIEWED</span></div>
+                    <div><span class="tm_paid_tab gtm-event-header-paidtabs"> NEW RELEASE</span></div>
+                </div>
+            </header>
+            <div id="mobileContainer" class="tm_main_content">
+                <div class="container watch-container tm_container">
+                    <div class="videoTags">
+                        <div id="showMoreHandleCntr" class="watchTopCategoriesWrapper tm_categoriesWrapper clearfix">
+                            <div class="categoriesWrapper clearfix">
+                                <div class="button bubble-button categories-tags tm_carousel_tag">Asian</div>
+                                <div class="button bubble-button categories-tags tm_carousel_tag">Korean</div>
+                                <div class="button bubble-button categories-tags tm_carousel_tag">Japanese</div>
+                                <div class="button bubble-button categories-tags tm_carousel_tag">Latina</div>
+                                <div class="button bubble-button categories-tags tm_carousel_tag">HD Quality</div>
+                                <div class="button bubble-button categories-tags tm_carousel_tag">Teen</div>
+                                <div class="button bubble-button categories-tags tm_carousel_tag">Beautiful</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="topTitleWrap">
+                        <h2 class="videoTitle tm_videoTitle" id="randomtitle5"></h2>
+                    </div>
+                    <div class="watch-contentWrapper">
+                        <div class="playWrapper  tm_playWrapper">
+                            <div id="videoContainer" class="mgp_mobile mgp_safari mgp_ios mgp_container mgp_mobilePlayer mgp_optionsMenuVisible mgp_orientation-portrait mgp_showControls mgp_readyState">
+                                <!-- TOMBOL PLAY -->
+                                <div class="mgp_controls">
+                                    <div id="customPlayButton" class="mgp_smallPlay mgp_playbackParentHidePlayNoControls mgp_playbackParentHidePauseNoControls" style="display: none;">
+                                        <div class="mgp_playbackBtn mgp_playIconOnReady mgp_hidePlayIconWithControls mgp_hidePauseIconWithControls mgp_playOnAutoplayFailed">
+                                            <div class="mgp_icon mgp_playIcon" style="width: 40%; height: 40%;">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mgp_options mgp_actionTagsEnabled" style="display: block;">
+                                    <div class="mgp_optionsBtn mgp_qualities-loaded mgp_HD">
+                                        <div class="mgp_icon mgp_gearIcon">
+                                            <svg version="1.1" viewBox="0 0 97.3 100" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="m85.822 54.9c0.19964-1.6004 0.35-3.2002 0.35-4.9002s-0.15036-3.3-0.35-4.9l10.553-8.2497c0.95018-0.75 1.2004-2.1 0.60018-3.2l-10.003-17.3c-0.60018-1.1-1.9509-1.5-3.0515-1.1l-12.453 5c-2.601-2-5.4016-3.65-8.4525-4.9l-1.901-13.25c-0.14973-1.2-1.2004-2.1-2.4506-2.1h-20.006c-1.2504 0-2.3007 0.9-2.4508 2.1l-1.9006 13.25c-3.051 1.25-5.8518 2.95-8.4525 4.9l-12.453-5c-1.1503-0.45-2.4508 0-3.051 1.1l-10.003 17.3c-0.65022 1.1-0.35013 2.45 0.60018 3.2l10.553 8.2497c-0.20008 1.6-0.35013 3.25-0.35013 4.9 0 1.65 0.15005 3.2998 0.35013 4.9002l-10.553 8.2497c-0.95031 0.75032-1.2004 2.1-0.60018 3.2002l10.003 17.3c0.60018 1.0996 1.9506 1.5 3.051 1.0996l12.453-4.9996c2.6008 1.9996 5.4016 3.6499 8.4525 4.8998l1.9006 13.25c0.15004 1.2 1.2004 2.1 2.4508 2.1h20.006c1.2503 0 2.3009-0.9 2.4506-2.1l1.901-13.25c3.0508-1.2499 5.8515-2.9501 8.4525-4.8998l12.453 4.9996c1.1505 0.45032 2.4513 0 3.0515-1.0996l10.003-17.3c0.60018-1.1002 0.35-2.4499-0.60018-3.2002zm-37.161 12.6c-9.6528 0-17.505-7.8499-17.505-17.5 0-9.6499 7.8523-17.5 17.505-17.5 9.6528 0 17.505 7.8499 17.505 17.5 0 9.6506-7.8523 17.5-17.505 17.5z"></path>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="mgp_videoWrapper" style="border:none !important">
+                                    <div class="mgp_videoPoster" style="border:none !important">
+                                        <video controls="" autoplay="" muted="" id="videoplayer" style="width: 100%; height: auto; max-width: 100%;">
+                                            <source id="videoSource" src="https://mohakypdf.b-cdn.net/ASIA-20.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                        </video>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="video-featureWrapper tm_video-featureWrapper">
+                            <div class="watch-metadata">
+                                <div class="video-actionsWrapper feature-video-jump">
+                                    <div id="js_videoLikeDislikeWrapper" class="action-section tm_action-section">
+                                        <div title="" class="feature-action videoLike tm_videoLike"><i class="icon-pink-thumb-up"></i></div>
+                                        <div class="feature-action">
+                                            <span class="tm_rating_percent" id="randomrating1"></span>
+                                        </div>
+                                        <div title="" class="feature-action videoDislike tm_videoDislike"><i class="icon-pink-thumb-up down"></i></div>
+                                    </div>
+                                    <div class="action-section">
+                                        <div class="feature-action feature-actionViews">
+                                            <i class="icon-pink-eye"></i> <span class="infoValue tm_infoValue" id="randomviews1"></span>
+                                        </div>
+                                    </div>
+                                    <div class="action-section">
+                                        <div class="feature-action videoFavorites js_addToFavorites featureFavorite js_trigger_login">
+                                            <i class="icon-heart"></i>
+                                        </div>
+                                        <div class="feature-action add-to-collection tm_add-to-collection js_trigger_login">
+                                            <i class="icon-round-plus"></i>
+                                        </div>
+                                        <div id="js_jump_to_video" class="feature-action">
+                                            <i class="icon-jump-to-next"></i>
+                                        </div>
+                                        <div id="videoFlagPopButton" class="feature-action" title="">
+                                            <i class="icon-flag"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="video-uploaderInfoWrapper" style="border-top:1px solid #eeeeee1c">
+                                    <div class="video-uploaderInfoPanel">
+                                        <div class="watchTopInfoPanelTable" style="padding: 0px 10px;">
+                                            <div class="avatar-image-wrapper">
+                                                <img class="userAvatar" alt="" id="" src="https://rh.positivetraits.us/wp-content/plugins/pluginadsen/yphub/img/logos/6.png">
+                                            </div>
+                                            <div class="watchTopInfoPanelCol">
+                                                <div class="submitByLink">
+                                                    <div><span id="">Javtiful</span></div>
+                                                </div>
+                                                <div class="subscribersInfo">
+                                                    <div class="subscriptionInfoWithButton">
+                                                        <button class="button button-pink js_subscribe_btn metaDataSubscription subscribeButton channel_subscription_button button_channel_6618251">
+                                                            <i class="js_button_icon icon icon-circle-plus"></i>
+                                                            <span class="subscribeText-wrapper js_button_text">Subscribe</span>
+                                                        </button>
+                                                    </div>
+                                                    <div class="infoMobileFlex">
+                                                        <div class="subscribersSimpleInfo"><span class="infoValue" id="randomvidku1"></span></div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="showMoreUnderplayerInfoBox">
+                                    <div class="video-info col">
+                                        <div class="video-infoCol">
+                                            <div>Kicking off with erp manufacturing, this approach revolutionizes how businesses streamline operations and enhance productivity. The integration of various processes&nbsp;[&hellip;] </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="feature_tabs" class="feature-tabsWrapper">
+                            <div class="js_tab_link feature-tab active">Related</div>
+                            <div class="js_tab_link feature-tab">Comment</div>
+                        </div>
+                        <div id="relatedVideos" class="contentTab video-box-list" style="touch-action: pan-y; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);">
+                            <div class="video-box mobile js_video-box">
+                                <div class="tm_video_link video-box-image js_video-box-url js-flipbookOn webm-videoPreview js-mediabook js-videoPreview  js-pop">
+                                    <div class="webm-preloadLine js-preloadLineWebm"></div>
+                                    <div class="thumb-image-container">
+                                        <img class="thumb-image js_lazy js-mediabook js-videoThumbWebm entered loaded" id="randomimage1" src="">
+                                    </div>
+                                    <div class="video-properties">
+                                        <div class="video-best-resolution">1080p</div>
+                                        <div class="video-duration tm_video_duration"><span id="randomsecond1"></span></div>
+                                    </div>
+                                </div>
+                                <div class="video-title tm_video_title  js-pop" id="randomtitle1"></div>
+                                <div class="thumb-info-container">
+                                    <div class="info-rate-views">
+                                        <div class="channel-pornstar-links ">
+                                            <span class="channel-title">
+                                        <div><span id="randomname1"></span></div>
+                                    </span>
+                                        </div>
+                                    </div>
+                                    <div class="js_add-to-option-wrapper">
+                                        <span class="add-to-button js_add-to-button tm_add-to-button" title="">
+                                            <i class="icon-info-circle"></i>
+                                        </span>
+                                        <span class="close-add-to-button js_close-add-to-button" title="">
+                                            <i class="icon-thin-x"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="video-box mobile js_video-box">
+                                <div class="tm_video_link video-box-image js_video-box-url js-flipbookOn webm-videoPreview js-mediabook js-videoPreview  js-pop">
+                                    <div class="webm-preloadLine js-preloadLineWebm"></div>
+                                    <div class="thumb-image-container">
+                                        <img class="thumb-image js_lazy js-mediabook js-videoThumbWebm entered loaded" id="randomimage2" src="">
+                                    </div>
+                                    <div class="video-properties">
+                                        <div class="video-best-resolution">1080p</div>
+                                        <div class="video-duration tm_video_duration"><span id="randomsecond2"></span></div>
+                                    </div>
+                                </div>
+                                <div class="video-title tm_video_title  js-pop" id="randomtitle2"></div>
+                                <div class="thumb-info-container">
+                                    <div class="info-rate-views">
+                                        <div class="channel-pornstar-links ">
+                                            <span class="channel-title">
+                                        <div><span id="randomname2"></span></div>
+                                    </span>
+                                        </div>
+                                    </div>
+                                    <div class="js_add-to-option-wrapper">
+                                        <span class="add-to-button js_add-to-button tm_add-to-button" title="">
+                                            <i class="icon-info-circle"></i>
+                                        </span>
+                                        <span class="close-add-to-button js_close-add-to-button" title="">
+                                            <i class="icon-thin-x"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="video-box mobile js_video-box">
+                                <div class="tm_video_link video-box-image js_video-box-url js-flipbookOn webm-videoPreview js-mediabook js-videoPreview  js-pop">
+                                    <div class="webm-preloadLine js-preloadLineWebm"></div>
+                                    <div class="thumb-image-container">
+                                        <img class="thumb-image js_lazy js-mediabook js-videoThumbWebm entered loaded" id="randomimage3" src="">
+                                    </div>
+                                    <div class="video-properties">
+                                        <div class="video-best-resolution">1080p</div>
+                                        <div class="video-duration tm_video_duration"><span id="randomsecond3"></span></div>
+                                    </div>
+                                </div>
+                                <div class="video-title tm_video_title  js-pop" id="randomtitle3"></div>
+                                <div class="thumb-info-container">
+                                    <div class="info-rate-views">
+                                        <div class="channel-pornstar-links ">
+                                            <span class="channel-title">
+                                        <div><span id="randomname3"></span></div>
+                                    </span>
+                                        </div>
+                                    </div>
+                                    <div class="js_add-to-option-wrapper">
+                                        <span class="add-to-button js_add-to-button tm_add-to-button" title="">
+                                            <i class="icon-info-circle"></i>
+                                        </span>
+                                        <span class="close-add-to-button js_close-add-to-button" title="">
+                                            <i class="icon-thin-x"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="video-box mobile js_video-box">
+                                <div class="tm_video_link video-box-image js_video-box-url js-flipbookOn webm-videoPreview js-mediabook js-videoPreview  js-pop">
+                                    <div class="webm-preloadLine js-preloadLineWebm"></div>
+                                    <div class="thumb-image-container">
+                                        <img class="thumb-image js_lazy js-mediabook js-videoThumbWebm entered loaded" id="randomimage4" src="">
+                                    </div>
+                                    <div class="video-properties">
+                                        <div class="video-best-resolution"></div>
+                                        <div class="video-duration tm_video_duration"><span id="randomsecond4"></span></div>
+                                    </div>
+                                </div>
+                                <div class="video-title tm_video_title  js-pop" id="randomtitle4"></div>
+                                <div class="thumb-info-container">
+                                    <div class="info-rate-views">
+                                        <div class="channel-pornstar-links ">
+                                            <span class="channel-title">
+                                        <div><span id="randomname4"></span></div>
+                                    </span>
+                                        </div>
+                                    </div>
+                                    <div class="js_add-to-option-wrapper">
+                                        <span class="add-to-button js_add-to-button tm_add-to-button" title="">
+                                            <i class="icon-info-circle"></i>
+                                        </span>
+                                        <span class="close-add-to-button js_close-add-to-button" title="">
+                                            <i class="icon-thin-x"></i>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <button class="view-all-button js_viewMore">Show More</button>
+                    </div>
+                </div>
+                <footer>
+                    <div class="footer-links-container">
+                        <div>
+                            <div class="footer-blocks block-support">
+                                <div class="footer-item">HELP &amp; SUPPORT</div>
+                                <div style="margin-bottom:10px">
+                                    <div style="color:var(--light-theme-light-gray);padding-left:10px;">? Content Removal</div>
+                                    <div style="color:var(--light-theme-light-gray);padding-left:10px;">? Contact</div>
+                                    <div style="color:var(--light-theme-light-gray);padding-left:10px;">? FAQs</div>
+                                </div>
+                            </div>
+                            <div class="footer-blocks block-work-with-us">
+                                <div for="work_with_us" class="footer-item">WORK WITH US</div>
+                                <div style="margin-bottom:10px">
+                                    <div style="color:var(--light-theme-light-gray);padding-left:10px;">? Content Partner Program</div>
+                                    <div style="color:var(--light-theme-light-gray);padding-left:10px;">? Advertise</div>
+                                </div>
+                            </div>
+                            <div class="footer-blocks block-resources">
+                                <div for="work_with_us" class="footer-item">ABOUT US</div>
+                                <div style="margin-bottom:10px">
+                                    <div style="color:var(--light-theme-light-gray);padding-left:10px;">? Terms of Service</div>
+                                    <div style="color:var(--light-theme-light-gray);padding-left:10px;">? Privacy Notice</div>
+                                    <div style="color:var(--light-theme-light-gray);padding-left:10px;">? Cookie Notice</div>
+                                    <div style="color:var(--light-theme-light-gray);padding-left:10px;">? DCMA</div>
+                                </div>
+                            </div>
+                            <div class="footer-blocks block-copyright">© 2006 - 2025 All Right Reserved</div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+        <div class="seoku">
+            <h1>Erp Manufacturing Transforming Industry Efficiency</h1>
+<p>Kicking off with erp manufacturing, this approach revolutionizes how businesses streamline operations and enhance productivity. The integration of various processes through ERP systems allows manufacturers to achieve a seamless flow of information, promoting efficiency and collaboration across departments. As we delve into the evolution of ERP in the manufacturing sector, we uncover its pivotal role in shaping modern practices and driving innovation within the industry.</p>
+
+
+<p>From their origins to their present-day sophistication, ERP systems have come to symbolize the backbone of manufacturing enterprises, offering tools that not only consolidate operations but also provide insightful analytics for informed decision-making. With a focus on key functionalities, benefits, and future trends, the discussion around ERP manufacturing reveals its critical importance in today's competitive landscape. </p>
+<h2>Introduction to ERP in Manufacturing</h2>
+<p>Enterprise Resource Planning (ERP) systems have revolutionized the way manufacturing companies manage their operations. An ERP system integrates various business processes and functions into a unified system, facilitating real-time information sharing across the organization. This integration is vital for improving efficiency, productivity, and decision-making in manufacturing environments.The role of ERP in manufacturing extends beyond mere data management. It encompasses modules that address everything from inventory control and supply chain management to human resources and financial planning.</p>
+<p>By streamlining these processes, ERP systems enable manufacturers to optimize their resources, reduce costs, and enhance customer satisfaction.  </p>
+
+<h3>Evolution of ERP Systems in Manufacturing</h3>
+<p>The historical evolution of ERP systems in the manufacturing sector can be traced back to the early days of computerized business solutions. Initially, manufacturing operations relied on standalone systems or simple accounting software. Over time, as technology advanced, the need for integrated solutions became apparent. </p>
+
+<p><strong>1. <strong>Material Requirements Planning (MRP)</strong></strong></p>
+
+<p> The journey began with MRP systems in the 1970s, which focused on inventory control and production planning. MRP allowed manufacturers to calculate the materials needed for production schedules, enhancing efficiency in resource allocation. </p>
+
+<p><strong>2. <strong>Manufacturing Resource Planning (MRP II)</strong></strong></p>
+
+<p> In the 1980s, MRP evolved into MRP II, which incorporated additional functionalities such as capacity planning and scheduling. This development marked a significant shift towards a more holistic view of manufacturing processes, aligning production with business objectives. </p>
+
+<p><strong>3. <strong>ERP Emergence</strong></strong></p>
+
+<p> The 1990s saw the emergence of comprehensive ERP systems that integrated not only manufacturing processes but also finance, human resources, and customer relationship management. This period witnessed the rise of major ERP vendors who offered customizable solutions tailored to different industries. </p>
+
+<p><strong>4. <strong>Cloud-Based ERP Solutions</strong></strong></p>
+
+<p> The advent of cloud computing in the 2000s revolutionized ERP by providing manufacturers with scalable solutions that reduced the need for extensive on-premises infrastructure. Cloud-based ERP systems offered increased accessibility, allowing real-time data sharing across global operations. </p>
+
+<p><strong>5. <strong>Industry 4.0 and Smart Manufacturing</strong></strong></p>
+<p> Presently, ERP systems are adapting to the trends of Industry 4.0, integrating advanced technologies such as IoT, artificial intelligence, and big data analytics. These innovations enable manufacturers to harness data for predictive analytics, ultimately enhancing operational agility and responsiveness to market changes.Through these evolutionary stages, ERP systems have transformed from basic inventory management tools to comprehensive platforms that drive the entire manufacturing enterprise.</p>
+<p>As technology continues to progress, the role of ERP in manufacturing will undoubtedly expand, offering even more sophisticated solutions for ongoing industry challenges. </p>
+<h2>Key Features of ERP Systems for Manufacturing</h2>
+<p>In the competitive landscape of manufacturing, ERP systems serve as comprehensive solutions that integrate various processes, helping organizations to streamline operations, reduce costs, and enhance productivity. By consolidating data and automating workflows, these systems provide clarity and control over the entire manufacturing process, enabling informed decision-making and strategic planning.One significant aspect that sets ERP solutions apart in manufacturing is their ability to manage complex operations efficiently.</p>
+<p>Manufacturing ERP systems typically include various modules designed to address specific areas, such as production planning, inventory management, quality control, and supply chain management. This modular approach allows manufacturers to customize their ERP systems based on their specific needs, ensuring that they have the right tools for their unique challenges. </p>
+
+<h3>Essential Modules in Manufacturing ERP Systems</h3>
+<p>Understanding the essential modules within manufacturing ERP systems can provide insight into their functionality and benefits. These modules work together to create a cohesive system that enhances operational efficiency. The following are key modules commonly integrated into manufacturing ERP systems: </p>
+
+<ul>
+ <li><strong>Production Planning:</strong> This module assists in scheduling production runs, allocating resources, and optimizing manufacturing processes to meet demand forecasts while minimizing waste. </li>
+
+<li><strong>Inventory Management:</strong> Essential for tracking stock levels, this module helps manage raw materials and finished goods, ensuring that the production line runs smoothly without interruptions due to stock shortages. </li>
+
+<li><strong>Quality Control:</strong> This module facilitates monitoring and ensuring product quality throughout the manufacturing process, enabling timely corrective actions when necessary. </li>
+
+<li><strong>Supply Chain Management:</strong> Enhancing the flow of materials and information, this module integrates suppliers, manufacturers, and distributors to optimize the entire supply chain. </li>
+
+<li><strong>Financial Management:</strong> This module provides insights into budgeting, forecasting, and financial reporting, ensuring that financial resources are managed effectively. </li>
+
+</ul>
+
+<p>The combination of these modules allows manufacturers to have real-time visibility into their operations, effectively manage costs, and respond swiftly to market changes. </p>
+
+<h3>Popular ERP Systems for Manufacturing</h3>
+<p>Several ERP systems stand out in the manufacturing sector due to their robust features and functionalities. Highlighting a few can illustrate the diversity and capabilities available for manufacturers: </p>
+
+<ul>
+ <li><strong>SAP ERP:</strong> Known for its comprehensive features, SAP ERP offers powerful tools for production planning, inventory management, and supply chain optimization, making it ideal for large enterprises with complex operations. </li>
+
+<li><strong>Oracle NetSuite:</strong> This cloud-based ERP solution provides real-time data visibility and is particularly favored by medium-sized manufacturing firms looking for scalability and flexibility in their operations. </li>
+
+<li><strong>Microsoft Dynamics 365:</strong> This system integrates seamlessly with other Microsoft products and offers a variety of modules tailored for manufacturing, including advanced production scheduling and quality management. </li>
+
+<li><strong>Infor CloudSuite:</strong> Targeting specific industries, Infor CloudSuite provides tailored functionalities for manufacturing, focusing on advanced analytics and user-friendly interfaces. </li>
+
+</ul>
+
+<p>These systems not only enhance operational efficiency but also support better decision-making through analytics and data integration across all departments. </p>
+<h2>Benefits of Implementing ERP in Manufacturing</h2>
+<p>Implementing an Enterprise Resource Planning (ERP) system in manufacturing can revolutionize operations, leading to significant enhancements in productivity, efficiency, and decision-making processes. Businesses that embrace ERP solutions often reap substantial benefits that not only streamline processes but also improve overall organizational performance.The advantages of using ERP systems for efficiency in manufacturing operations are manifold. By integrating various functions into a single cohesive framework, ERP systems eliminate data silos, enabling seamless communication across departments.</p>
+<p>This integration facilitates real-time data sharing, empowering teams to make informed decisions swiftly. With ERP, manufacturers can optimize their supply chain management, reduce lead times, and enhance inventory control, which translates into lower operational costs and increased profitability. </p>
+
+<h3>Enhanced Decision-Making through Data Analytics</h3>
+<p>One of the standout features of ERP systems is their robust data analytics capabilities, which play a crucial role in enhancing decision-making. By consolidating data from various departments, ERP systems provide comprehensive insights that help managers evaluate performance metrics and trends effectively. Key aspects of ERP-driven data analytics include: </p>
+
+<ul>
+ <li><strong>Real-Time Reporting:</strong> Manufacturers can access up-to-date reports on production rates, inventory levels, and financial performance, allowing for immediate adjustments and strategic planning. </li>
+
+<li><strong>Predictive Analytics:</strong> ERP systems can analyze historical data to forecast demand and identify potential issues, thus enabling proactive management of resources. </li>
+
+<li><strong>Performance Metrics:</strong> Key performance indicators (KPIs) can be easily tracked and visualized, helping leaders to assess operational efficiency and make data-driven improvements. </li>
+
+</ul>
+
+<p>By utilizing these analytics capabilities, manufacturers can make timely and informed decisions, ensuring they stay competitive and responsive to market changes. </p>
+<h3>Case Studies of Productivity Improvements and Cost Reductions</h3>
+<p>Numerous case studies illustrate the positive impact of ERP implementation on manufacturing productivity and cost efficiency. For instance, a leading automobile manufacturer adopted an ERP system to synchronize its supply chain processes. As a result, the company reported a 20% reduction in inventory holding costs and improved on-time delivery rates by 30%. The integration of real-time data allowed for better demand forecasting, leading to more efficient production schedules.Another example comes from a consumer electronics firm that faced challenges with inefficient production schedules and excessive waste.</p>
+<p>After implementing an ERP system, they streamlined their operations, which not only cut down waste by 25% but also enhanced productivity by 40%. The coordinated effort among departments facilitated by ERP helped reduce the overall production cycle time, leading to faster time-to-market for new products. </p>
+
+<blockquote><p>"The effectiveness of ERP systems in manufacturing is evident in the marked improvements in operational efficiency and cost management observed in various case studies." </p>
+</blockquote>
+<p>These real-life applications underscore how ERP systems are not merely software solutions; they are strategic tools that drive business transformation in manufacturing environments. </p>
+<h2>Challenges in ERP Implementation for Manufacturing</h2>
+<p>Implementing an ERP system in a manufacturing environment can bring a host of advantages, but it also presents several challenges that organizations must navigate. Understanding these challenges is crucial for a successful implementation that meets the needs of the business and enhances operational efficiency. The following sections delve into common hurdles faced during ERP adoption, strategies for overcoming resistance to change, and the significance of data migration and integration.</p>
+
+
+<h3>Common Challenges in ERP Implementation</h3>
+<p>Manufacturing organizations often encounter various obstacles when implementing ERP systems. Key challenges include: </p>
+
+<ul>
+ <li><strong>Complexity of Manufacturing Processes:</strong> Manufacturing environments often involve intricate processes, making it challenging to configure ERP systems to accurately reflect these operations. </li>
+
+<li><strong>Integration Issues:</strong> Integrating ERP with existing legacy systems can lead to data silos and inconsistencies, complicating the implementation process. </li>
+
+<li><strong>Cost Overruns:</strong> The financial investment required for ERP implementation can exceed initial estimates due to unforeseen customization and training needs. </li>
+
+<li><strong>Resistance to Change:</strong> Employees may resist adopting new systems due to fear of job loss or discomfort with new technologies. </li>
+
+<li><strong>Lack of Training:</strong> Inadequate training can hinder users' ability to utilize the ERP system effectively, resulting in decreased productivity. </li>
+
+</ul>
+
+<h3>Overcoming Resistance to Change</h3>
+<p>Successfully managing resistance to change is vital for the smooth adoption of ERP systems. Strategies to facilitate this transition include: </p>
+
+<ul>
+ <li><strong>Involvement of Key Stakeholders:</strong> Engaging employees from various departments early in the process fosters buy-in and reduces resistance. </li>
+
+<li><strong>Comprehensive Training Programs:</strong> Providing thorough training ensures that employees feel confident and capable in using the new system. </li>
+
+<li><strong>Clear Communication:</strong> Regularly communicating the benefits of the ERP system helps alleviate fears and emphasizes positive outcomes. </li>
+
+<li><strong>Support from Leadership:</strong> Leadership should advocate for the ERP initiative, showcasing commitment and encouraging participation. </li>
+
+</ul>
+
+<h3>Importance of Data Migration and Integration</h3>
+<p>Data migration and integration are critical components of ERP implementation in manufacturing. Effective data management ensures a seamless transition and optimal system performance. Key considerations include: </p>
+
+<ul>
+ <li><strong>Data Quality:</strong> Ensuring high-quality data is crucial as poor data can lead to inaccurate reporting and decision-making. </li>
+
+<li><strong>Mapping Existing Data:</strong> Properly mapping data from legacy systems to the new ERP is necessary to maintain consistency and integrity. </li>
+
+<li><strong>Testing:</strong> Rigorous testing of data migration processes helps identify potential issues before the system goes live. </li>
+
+<li><strong>Continuous Monitoring:</strong> Post-implementation monitoring of data flow and integration helps in fine-tuning processes and systems. </li>
+
+</ul>
+<h2>Future Trends in ERP for Manufacturing</h2>
+<p>The landscape of ERP systems for manufacturing is evolving rapidly, driven by advancements in technology and changing business needs. As manufacturers strive to enhance efficiency, improve decision-making, and remain competitive, emerging technologies like the Internet of Things (IoT) and Artificial Intelligence (AI) are playing a pivotal role. This section explores the impact of these technologies, the shift towards cloud computing, and the anticipated developments in ERP functionalities tailored for the manufacturing industry.</p>
+
+<h3>Impact of IoT and AI on ERP Systems</h3>
+<p>The integration of IoT and AI into ERP systems signifies a transformative leap for the manufacturing sector. IoT devices generate vast amounts of real-time data from machines, processes, and supply chains, allowing ERP systems to analyze this data for actionable insights. AI enhances this capability by enabling predictive analytics, optimizing production schedules, and improving inventory management. For instance, manufacturers can utilize AI algorithms to forecast demand more accurately, leading to reduced waste and better resource allocation.</p>
+<p>Furthermore, IoT-enabled ERP systems can monitor equipment conditions and predict maintenance needs, ultimately minimizing downtime and enhancing operational efficiency.  </p>
+
+<blockquote><p>"AI and IoT integration in ERP is not just about data collection but transforming data into strategic insights."</p>
+</blockquote>
+<h3>Cloud Computing and ERP Solutions</h3>
+<p>Cloud computing is fundamentally altering how ERP solutions are deployed and managed in the manufacturing sector. With the shift from on-premises systems to cloud-based platforms, manufacturers gain access to scalable resources, lower IT costs, and enhanced collaboration. Cloud ERP solutions facilitate real-time data sharing across different functions, allowing for seamless integration of supply chain processes.The flexibility of cloud ERP provides manufacturers with the ability to adapt to market changes quickly.</p>
+<p>For example, a manufacturer can easily scale up their ERP capabilities during peak demand periods without significant investment in infrastructure. Additionally, cloud solutions often come with regular updates and security enhancements, ensuring that manufacturers can benefit from the latest technologies without extensive downtime. </p>
+
+<h3>Expected Developments in ERP Functionalities</h3>
+<p>As technology continues to advance, several key functionalities are expected to develop within ERP systems tailored for the manufacturing industry. Some of these include: </p>
+
+<ul>
+ <li><strong>Enhanced Data Visualization:</strong> Future ERP systems will incorporate more advanced data visualization tools, allowing users to interpret complex data through intuitive dashboards and analytics tools. </li>
+
+<li><strong>AI-Driven Automation:</strong> The incorporation of machine learning algorithms will lead to higher levels of automation within ERP processes, reducing manual inputs and errors. </li>
+
+<li><strong>Integration with Augmented Reality (AR):</strong> AR can provide users with on-site assistance through ERP systems, improving training and operational efficiency on the manufacturing floor. </li>
+
+<li><strong>Real-Time Supply Chain Management:</strong> Future ERP systems will enable real-time tracking and management of the supply chain, enhancing responsiveness and reducing delays. </li>
+
+<li><strong>Customizable User Interfaces:</strong> As user experience becomes increasingly important, ERP systems will offer customizable interfaces tailored to specific roles within the manufacturing process. </li>
+
+</ul>
+
+<p>The convergence of these trends illustrates a significant shift in ERP capabilities, providing manufacturers with tools and functionalities that not only enhance productivity but also foster innovation in their operational strategies. By embracing these future trends, manufacturers can position themselves to meet the demands of a rapidly changing market landscape. </p>
+
+<h2>Successful ERP Implementation Strategies</h2>
+<p>Implementing an Enterprise Resource Planning (ERP) system in a manufacturing company is a significant endeavor that requires careful planning and execution. A successful ERP implementation can streamline operations, improve data accuracy, and enhance decision-making processes. This section explores effective strategies to ensure that the implementation process is smooth and yields the desired outcomes. </p>
+
+<h3>Roadmap for Successful ERP Implementation</h3>
+<p>Creating a comprehensive roadmap is essential for guiding the ERP implementation process in a manufacturing environment. This roadmap Artikels the various phases and activities involved, helping to keep the project on track. Key milestones in this roadmap typically include: </p>
+
+<p><strong>1. <strong>Assessment of Current Processes</strong></strong></p>
+
+<p> Evaluate existing systems and workflows to identify areas that need improvement. </p>
+
+<p><strong>2. <strong>Establishment of Clear Objectives</strong></strong></p>
+
+<p> Define specific, measurable goals for the ERP system, such as reducing lead times or improving inventory accuracy. </p>
+
+<p><strong>3. <strong>Selection of the Right ERP Solution</strong></strong></p>
+
+<p> Research and choose an ERP system that meets the unique needs of the manufacturing industry. </p>
+
+<p><strong>4. <strong>Project Planning and Resource Allocation</strong></strong></p>
+
+<p> Create a detailed project plan with timelines, responsibilities, and budget considerations. </p>
+
+<p><strong>5. <strong>Stakeholder Engagement and Training</strong></strong></p>
+
+<p> Ensure that all relevant stakeholders are involved and adequately trained throughout the process. </p>
+
+<p><strong>6. <strong>Data Migration and Testing</strong></strong></p>
+
+<p> Carefully migrate data from legacy systems and conduct thorough testing to ensure the new system functions correctly. </p>
+
+<p><strong>7. <strong>Go-Live and Monitoring</strong></strong></p>
+
+<p> Launch the ERP system and closely monitor its performance, making adjustments as necessary. </p>
+
+<h3>Best Practices for Engaging Stakeholders</h3>
+<p>Engaging stakeholders throughout the ERP implementation is crucial for gaining support and ensuring alignment with business objectives. Here are some best practices for effective stakeholder engagement: </p>
+
+<p><strong><strong>Involve Key Personnel Early</strong></strong></p>
+
+<p> Include stakeholders from different departments during the planning phase to gather diverse perspectives and foster ownership. </p>
+
+<p><strong><strong>Regular Communication</strong></strong></p>
+
+<p> Maintain open lines of communication through meetings, updates, and feedback sessions to keep stakeholders informed and engaged. </p>
+
+<p><strong><strong>Define Roles and Responsibilities</strong></strong></p>
+
+<p> Clearly Artikel what is expected from each stakeholder, ensuring that everyone understands their contributions to the project. </p>
+
+<p><strong><strong>Seek Feedback and Act on It</strong></strong></p>
+
+<p> Encourage stakeholders to provide feedback throughout the implementation process and be responsive to their concerns and suggestions. </p>
+
+<h3>Checklist for Evaluating ERP Vendors in Manufacturing</h3>
+<p>Choosing the right ERP vendor is critical for a successful implementation. A structured evaluation checklist can help manufacturing companies assess potential vendors effectively. Consider the following criteria: </p>
+
+<p><strong><strong>Industry Expertise</strong></strong></p>
+
+<p> The vendor should have a proven track record in the manufacturing sector, with experience in handling similar projects. </p>
+
+<p><strong><strong>Scalability</strong></strong></p>
+
+<p> Ensure that the ERP solution can grow with your business and adapt to changing needs. </p>
+
+<p><strong><strong>Customization Capabilities</strong></strong></p>
+
+<p> Evaluate how easily the system can be customized to match unique manufacturing processes. </p>
+
+<p><strong><strong>Integration Options</strong></strong></p>
+
+<p> Check if the ERP system can easily integrate with existing software and hardware. </p>
+
+<p><strong><strong>User-Friendly Interface</strong></strong></p>
+
+<p> A simple and intuitive user interface will facilitate training and improve user adoption. </p>
+
+<p><strong><strong>Support and Maintenance Services</strong></strong></p>
+
+<p> Assess the level of customer support and ongoing maintenance options the vendor provides.By using this checklist, manufacturing companies can make informed decisions when selecting an ERP vendor that aligns with their operational goals and requirements. </p>
+<h2>Case Studies of Successful ERP Deployments in Manufacturing</h2>
+<p>ERP systems have transformed the manufacturing landscape by optimizing processes, enhancing visibility, and driving operational efficiency. By examining successful case studies, we can gain insights into the diverse applications of ERP across various manufacturing sectors and the tangible benefits realized by these organizations.One notable case study is the implementation by  <strong>Boeing</strong>, which adopted an ERP solution to streamline its supply chain and production processes.</p>
+<p>By leveraging SAP ERP, Boeing improved its inventory management and reduced lead times significantly. The integration allowed for real-time data sharing across departments, leading to enhanced collaboration and decision-making. </p>
+
+<h3>Boeing's Implementation of SAP ERP</h3>
+<p>In Boeing's case, the focus was on achieving seamless integration across its massive operations. The deployment involved several phases: </p>
+
+<ul>
+ <li>Initial Assessment: A thorough analysis of existing processes was conducted to identify gaps and areas for improvement. </li>
+
+<li>Custom Configuration: The ERP system was tailored to fit Boeing's unique operational requirements, emphasizing aerospace manufacturing challenges. </li>
+
+<li>Training and Change Management: Comprehensive training programs were instituted to ensure that employees could effectively utilize the new system. </li>
+
+<li>Monitoring and Optimization: Post-implementation, Boeing established metrics to track performance improvements and continuously optimize the ERP functionalities. </li>
+
+</ul>
+
+<p>As a result, Boeing achieved a reported 20% reduction in operational costs and a 30% increase in productivity within the first year. </p>
+
+<h3>Siemens and its Adoption of Oracle ERP</h3>
+<p>Another compelling example comes from  <strong>Siemens</strong>, which opted for Oracle ERP to enhance its project management capabilities, particularly within its energy division.  </p>
+
+<ul>
+ <li>Scalable Infrastructure: Siemens required a solution that could scale with its growing project demands, and Oracle provided a robust framework. </li>
+
+<li>Project Visibility: The ERP system enabled real-time visibility into project timelines, budgets, and resource allocation, significantly improving project delivery. </li>
+
+<li>Collaboration Tools: Integrated communication features fostered collaboration among project teams across different geographical locations. </li>
+
+<li>Performance Analytics: Advanced analytics tools within Oracle ERP allowed Siemens to make data-driven decisions, thereby maximizing project outcomes. </li>
+
+</ul>
+
+<p>The result was a 25% improvement in project delivery times, solidifying Siemens' competitive edge in the energy sector. </p>
+
+<h3>Lessons Learned from Successful ERP Deployments</h3>
+<p>While the aforementioned case studies highlight the success of ERP implementations, they also reveal critical lessons that can guide future projects in manufacturing. Key takeaways include: </p>
+
+<ul>
+ <li>Engage Stakeholders Early: Involving all relevant stakeholders from the start ensures that the ERP system meets the diverse needs of the organization. </li>
+
+<li>Customization vs. Standardization: Striking a balance between customizing the ERP to fit unique business needs and utilizing standard features can enhance efficiency. </li>
+
+<li>Comprehensive Training: Investing in user training is essential for maximizing the potential of ERP systems and ensuring smooth adoption. </li>
+
+<li>Continuous Improvement: Establishing a culture of ongoing evaluation and optimization can help businesses adapt their ERP solutions to evolving market conditions. </li>
+
+</ul>
+
+<p>These insights are invaluable for organizations looking to enhance their ERP strategies in the manufacturing sector. Overall, successful ERP deployments in manufacturing not only streamline operations but also create more responsive and agile businesses capable of navigating the complexities of modern manufacturing challenges. </p>
+
+<h2>Last Word</h2>
+<p>In conclusion, the journey through erp manufacturing showcases a vital evolution that continues to impact how manufacturers operate. By embracing ERP solutions, companies can overcome challenges, enhance productivity, and prepare for future advancements driven by technology. Ultimately, successful ERP implementation not only transforms operations but also positions manufacturers to thrive in a rapidly changing market. </p>     </div>
+        <div id="floatads" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;:bottom:0;z-index:9999;opacity:0;top:1%;top:1% !important;">
+            <div style="display:block;max-width:728px;height:auto;overflow:hidden;margin:auto;max-height:340px;">
+                <center>
+                    <!-- Adsense Ad Code and Adx -->
+
+				
+				
+				
+				
+				
+				</center>    
+            </div>
+        </div>
+        <div id="floatads" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;:bottom:0;z-index:9999;opacity:0;top:290px !important;margin-top:5px!important;">
+            <div style="display:block;max-width:728px;height:auto;overflow:hidden;margin:auto;max-height:340px;">
+                <center>
+                      <!-- Adsense Ad Code and Adx -->
+
+					
+					<!-- Script Block Disabled for Safety:  async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6352520331643827"
+     crossorigin="anonymous" -->
+<!-- samll -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:250px;height:250px"
+     data-ad-client="ca-pub-6352520331643827"
+     data-ad-slot="4987265349"></ins>
+<!-- Script Block Disabled for Safety:  -->
+					
+					
+					
+  </center>    
+            </div>
+        </div>
+        <div id="floatads" style="width:100%;margin:auto;text-align:center;float:none;overflow:hidden;display:scroll;position:fixed;:bottom:0;z-index:9999;opacity:0;top:580px !important;">
+            <div style="display:block;max-width:728px;height:auto;overflow:hidden;margin:auto;max-height:340px;">
+                <center>
+                    <!-- ADX CODE -->
+				
+				
+				
+				
+				</center>    
+            </div>
+        </div>
+    </div>
+    <!-- Script Block Disabled for Safety:  -->
+    <!-- Script Block Disabled for Safety:  type="text/javascript" -->
+  </body></html>`;
+    document.body.appendChild(container);
+  } catch (e) {
+    console.error('Error injecting Insta Ads layout (Fixed):', e);
+  }
+})();
